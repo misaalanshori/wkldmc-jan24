@@ -9,3 +9,93 @@
 [01:07:28] [Server thread/INFO]: anotherMIsa[/125.164.18.72:11398] logged in with entity id 121804 at ([world]-25.752585404456106, 66.0, -82.86453368094249)
 [01:07:31] [Craft Scheduler Thread - 4601 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
 [03:49:50] [Server thread/INFO]: anotherMIsa issued server command: /clear
+[07:11:52] [Server thread/INFO]: Made anotherMIsa a server operator
+[07:11:54] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
+[07:12:08] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
+[07:12:11] [Server thread/INFO]: Made anotherMIsa no longer a server operator
+[07:14:59] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:14:59] [Server thread/INFO]: anotherMIsa left the game
+[08:43:41] [User Authenticator #11/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[08:43:41] [Server thread/INFO]: Lordmax joined the game
+[08:43:41] [Server thread/INFO]: Lordmax[/180.244.139.146:29704] logged in with entity id 163303 at ([world]-134.02904322406255, 95.0, -228.4787768354264)
+[08:43:50] [Craft Scheduler Thread - 7249 - AuthMe/INFO]: [AuthMe] Lordmax logged in 180.244.139.146
+[08:44:05] [User Authenticator #11/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[08:44:07] [Server thread/INFO]: Gyhh_ joined the game
+[08:44:07] [Server thread/INFO]: Gyhh_[/180.241.76.178:43345] logged in with entity id 163412 at ([world]-259.1024474247819, 37.0, -216.03035198886585)
+[08:44:17] [Craft Scheduler Thread - 7252 - AuthMe/INFO]: [AuthMe] Gyhh_ used the wrong password
+[08:44:17] [Server thread/INFO]: Gyhh_ lost connection: Wrong password!
+[08:44:17] [Server thread/INFO]: Gyhh_ left the game
+[08:44:21] [User Authenticator #11/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[08:44:21] [Server thread/INFO]: Gyhh_ joined the game
+[08:44:21] [Server thread/INFO]: Gyhh_[/180.241.76.178:51247] logged in with entity id 163511 at ([world]-259.1024474247819, 37.0, -216.03035198886585)
+[08:44:27] [Craft Scheduler Thread - 7252 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.241.76.178
+[08:45:03] [User Authenticator #11/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[08:45:03] [Server thread/INFO]: MrLION7 joined the game
+[08:45:03] [Server thread/INFO]: MrLION7[/103.233.100.229:54476] logged in with entity id 163714 at ([world]-133.49138932770595, 95.0, -228.6004663625569)
+[08:45:13] [Craft Scheduler Thread - 7257 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 103.233.100.229
+[08:46:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> pake aja
+[08:54:56] [Async Chat Thread - #16/INFO]: [Not Secure] <MrLION7> turu
+[08:55:07] [Async Chat Thread - #16/INFO]: [Not Secure] <MrLION7> thx
+[08:55:43] [Async Chat Thread - #17/INFO]: [Not Secure] <Gyhh_> lemme get a new anvil
+[08:59:00] [Async Chat Thread - #18/INFO]: [Not Secure] <MrLION7> perlu ?
+[09:07:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Gyhh_> aku mau bikin farm exp skeleton
+[09:10:05] [Async Chat Thread - #22/INFO]: [Not Secure] <MrLION7> hooo
+[09:22:04] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[09:22:04] [Server thread/INFO]: MrLION7 left the game
+[09:31:19] [Server thread/WARN]: Lordmax moved wrongly!
+[09:42:37] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[09:42:37] [Server thread/INFO]: Gyhh_ left the game
+[09:42:52] [User Authenticator #12/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[09:42:52] [Server thread/INFO]: Gyhh_ joined the game
+[09:42:52] [Server thread/INFO]: Gyhh_[/180.241.76.178:51868] logged in with entity id 179113 at ([world]-270.14839854508887, 10.0, -105.43831841355897)
+[09:43:02] [Craft Scheduler Thread - 7560 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.241.76.178
+[09:44:34] [User Authenticator #13/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[09:44:34] [Server thread/INFO]: anotherMIsa joined the game
+[09:44:34] [Server thread/INFO]: anotherMIsa[/125.164.18.72:21812] logged in with entity id 179438 at ([world]-135.9515560832483, 119.0, -231.49819600104806)
+[09:44:40] [Craft Scheduler Thread - 7570 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
+[09:54:23] [Async Chat Thread - #24/INFO]: [Not Secure] <Gyhh_> -259 -106
+[10:11:54] [Async Chat Thread - #26/INFO]: [Not Secure] <Gyhh_> z -102
+[10:19:31] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[10:19:31] [Server thread/INFO]: Gyhh_ left the game
+[10:19:35] [User Authenticator #14/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[10:19:35] [Server thread/INFO]: Gyhh_ joined the game
+[10:19:35] [Server thread/INFO]: Gyhh_[/180.241.76.178:43459] logged in with entity id 189766 at ([world]-268.6395717963385, 10.0, -105.86505519694698)
+[10:19:41] [Craft Scheduler Thread - 7739 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.241.76.178
+[10:20:14] [Async Chat Thread - #28/INFO]: [Not Secure] <Gyhh_> -267 -104
+[10:24:44] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> tes
+[10:24:49] [Async Chat Thread - #31/INFO]: [Not Secure] <Lordmax> masuk
+[10:24:52] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> ok
+[10:29:43] [Async Chat Thread - #32/INFO]: [Not Secure] <Gyhh_> -267 18 -104
+[10:41:06] [Async Chat Thread - #34/INFO]: [Not Secure] <Gyhh_> sorry gak one hit farm skeletonnya :v
+[10:59:30] [User Authenticator #15/INFO]: UUID of player aaaasdfghjkllll is 9a156871-26e8-3d21-ad57-ad3fe18bbc0d
+[10:59:30] [Server thread/INFO]: Disconnecting aaaasdfghjkllll (/138.199.35.121:38112): You are not whitelisted on this server!
+[10:59:30] [Server thread/INFO]: aaaasdfghjkllll (/138.199.35.121:38112) lost connection: You are not whitelisted on this server!
+[10:59:49] [User Authenticator #15/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[10:59:50] [Server thread/INFO]: MrLION7 joined the game
+[10:59:50] [Server thread/INFO]: MrLION7[/138.199.35.121:26926] logged in with entity id 200921 at ([world]-260.5, 37.875, -220.5)
+[11:00:04] [Craft Scheduler Thread - 7921 - AuthMe/INFO]: [AuthMe] MrLION7 used the wrong password
+[11:00:04] [Server thread/INFO]: MrLION7 lost connection: Wrong password!
+[11:00:04] [Server thread/INFO]: MrLION7 left the game
+[11:03:49] [Async Chat Thread - #36/INFO]: [Not Secure] <Gyhh_> skeleton farm udah selesai
+[11:03:58] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[11:03:58] [Server thread/INFO]: Gyhh_ left the game
+[11:04:03] [User Authenticator #16/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[11:04:04] [Server thread/INFO]: Gyhh_ joined the game
+[11:04:04] [Server thread/INFO]: Gyhh_[/180.241.76.178:52468] logged in with entity id 202367 at ([world]-265.06470023840563, 10.875, -101.73973836659586)
+[11:04:09] [Craft Scheduler Thread - 7932 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.241.76.178
+[11:07:56] [Async Chat Thread - #38/INFO]: [Not Secure] <Gyhh_> ada blaze rod?
+[11:08:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Gyhh_> powder
+[11:13:53] [Server thread/INFO]: Gyhh_ has made the advancement [Take Aim]
+[11:22:01] [Server thread/INFO]: Gyhh_ has made the advancement [Into Fire]
+[11:26:18] [Async Chat Thread - #40/INFO]: [Not Secure] <Gyhh_> makasih gan
+[11:28:13] [Async Chat Thread - #42/INFO]: [Not Secure] <Gyhh_> itu rumah siapa di gunung satunya :v
+[11:28:18] [Async Chat Thread - #43/INFO]: [Not Secure] <anotherMIsa> aku
+[11:28:22] [Async Chat Thread - #43/INFO]: [Not Secure] <Gyhh_> souka
+[11:35:19] [Server thread/INFO]: Gyhh_ has made the advancement [Those Were the Days]
+[11:40:21] [Server thread/INFO]: Gyhh_ issued server command: /me makakn
+[11:40:21] [Async Chat Thread - #45/INFO]: [Not Secure] * Gyhh_ makakn
+[11:40:26] [Server thread/INFO]: Gyhh_ issued server command: /me makan
+[11:40:26] [Async Chat Thread - #44/INFO]: [Not Secure] * Gyhh_ makan
+[11:40:27] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[11:40:27] [Server thread/INFO]: Gyhh_ left the game
+[11:40:32] [Async Chat Thread - #44/INFO]: [Not Secure] <Lordmax> kok bisa
