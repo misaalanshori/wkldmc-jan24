@@ -99,3 +99,120 @@
 [11:40:27] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
 [11:40:27] [Server thread/INFO]: Gyhh_ left the game
 [11:40:32] [Async Chat Thread - #44/INFO]: [Not Secure] <Lordmax> kok bisa
+[12:01:07] [Server thread/INFO]: anotherMIsa issued server command: /me is now eating
+[12:01:07] [Async Chat Thread - #47/INFO]: [Not Secure] * anotherMIsa is now eating
+[12:01:09] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:01:09] [Server thread/INFO]: anotherMIsa left the game
+[12:08:04] [User Authenticator #17/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:08:04] [Server thread/INFO]: anotherMIsa joined the game
+[12:08:04] [Server thread/INFO]: anotherMIsa[/125.164.18.72:4662] logged in with entity id 221140 at ([world]-1.4463210808997329, 117.0, -142.5833559408972)
+[12:08:08] [Craft Scheduler Thread - 8244 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
+[12:15:55] [User Authenticator #18/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[12:15:56] [Server thread/INFO]: Gyhh_ joined the game
+[12:15:56] [Server thread/INFO]: Gyhh_[/180.241.76.178:52952] logged in with entity id 222130 at ([world]-102.140878348877, 116.9375, -280.3644957404978)
+[12:16:01] [Craft Scheduler Thread - 8281 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.241.76.178
+[12:20:46] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[12:20:46] [Server thread/INFO]: Gyhh_ left the game
+[12:47:31] [User Authenticator #19/INFO]: Disconnecting .JiuJiHua (/31.192.23.223:41084): Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[12:47:31] [User Authenticator #19/INFO]: UUID of player .JiuJiHua is 5318ee76-fb99-32e9-88f9-8a6e0a6e30ac
+[12:47:31] [Server thread/INFO]: .JiuJiHua (/31.192.23.223:41084) lost connection: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[12:47:39] [User Authenticator #19/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[12:47:40] [Server thread/INFO]: Gyhh_ joined the game
+[12:47:40] [Server thread/INFO]: Gyhh_[/31.192.23.223:41087] logged in with entity id 226344 at ([world]-102.78002999302959, 117.0, -277.8194091422993)
+[12:48:05] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[12:48:05] [Server thread/INFO]: Gyhh_ left the game
+[13:16:02] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:16:02] [Server thread/INFO]: anotherMIsa left the game
+[13:17:48] [User Authenticator #20/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[13:17:48] [Server thread/INFO]: anotherMIsa joined the game
+[13:17:48] [Server thread/INFO]: anotherMIsa[/125.164.20.134:4499] logged in with entity id 233258 at ([world]3.927681856210616, 117.0, -145.30000001192093)
+[13:17:52] [Craft Scheduler Thread - 8597 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
+[13:22:13] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:22:13] [Server thread/INFO]: anotherMIsa left the game
+[14:32:35] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[14:32:35] [Server thread/INFO]: Lordmax left the game
+[14:33:46] [User Authenticator #21/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[14:33:46] [Server thread/INFO]: Lordmax joined the game
+[14:33:46] [Server thread/INFO]: Lordmax[/180.244.139.146:7523] logged in with entity id 244481 at ([world]-276.30000001192093, 101.0, -211.39984741286216)
+[14:33:51] [Craft Scheduler Thread - 9071 - AuthMe/INFO]: [AuthMe] Lordmax logged in 180.244.139.146
+[15:14:31] [User Authenticator #22/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:14:31] [Server thread/INFO]: MrLION7 joined the game
+[15:14:31] [Server thread/INFO]: MrLION7[/182.253.54.67:4824] logged in with entity id 249864 at ([world]-260.5, 37.875, -220.5)
+[15:14:42] [Craft Scheduler Thread - 9301 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.67
+[15:21:49] [User Authenticator #23/INFO]: UUID of player TKD_Kedis is 8cd6b06c-e27c-3d89-816e-ed997f185126
+[15:21:49] [Server thread/INFO]: Disconnecting TKD_Kedis (/37.30.12.80:54663): You are not whitelisted on this server!
+[15:21:49] [Server thread/INFO]: TKD_Kedis (/37.30.12.80:54663) lost connection: You are not whitelisted on this server!
+[15:23:11] [User Authenticator #24/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:23:11] [Server thread/INFO]: Disconnecting MrLION7 (/185.207.148.105:61088): The same username is already playing on the server!
+[15:23:11] [Server thread/INFO]: MrLION7 (/185.207.148.105:61088) lost connection: The same username is already playing on the server!
+[15:23:15] [User Authenticator #24/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:23:15] [Server thread/INFO]: Disconnecting MrLION7 (/185.207.148.105:61092): The same username is already playing on the server!
+[15:23:15] [Server thread/INFO]: MrLION7 (/185.207.148.105:61092) lost connection: The same username is already playing on the server!
+[15:23:25] [User Authenticator #24/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:23:25] [Server thread/INFO]: Disconnecting MrLION7 (/185.207.148.105:61097): The same username is already playing on the server!
+[15:23:25] [Server thread/INFO]: MrLION7 (/185.207.148.105:61097) lost connection: The same username is already playing on the server!
+[15:23:30] [User Authenticator #24/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:23:30] [Server thread/INFO]: Disconnecting MrLION7 (/185.207.148.105:61102): The same username is already playing on the server!
+[15:23:30] [Server thread/INFO]: MrLION7 (/185.207.148.105:61102) lost connection: The same username is already playing on the server!
+[15:24:30] [User Authenticator #24/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[15:24:30] [Server thread/INFO]: BlackNasCo joined the game
+[15:24:30] [Server thread/INFO]: BlackNasCo[/185.207.148.105:9619] logged in with entity id 252570 at ([world]-105.16595683490591, 68.0, -50.52459118428659)
+[15:24:39] [Craft Scheduler Thread - 9370 - AuthMe/INFO]: [AuthMe] BlackNasCo used the wrong password
+[15:24:39] [Server thread/INFO]: BlackNasCo lost connection: Wrong password!
+[15:24:39] [Server thread/INFO]: BlackNasCo left the game
+[15:24:46] [User Authenticator #24/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[15:24:46] [Server thread/INFO]: BlackNasCo joined the game
+[15:24:46] [Server thread/INFO]: BlackNasCo[/185.207.148.105:61148] logged in with entity id 252741 at ([world]-105.16595683490591, 68.0, -50.52459118428659)
+[15:25:08] [Server thread/INFO]: BlackNasCo issued server command: /2fa
+[15:25:16] [Server thread/INFO]: BlackNasCo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[15:25:16] [Server thread/INFO]: BlackNasCo left the game
+[15:25:24] [User Authenticator #24/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[15:25:25] [Server thread/INFO]: BlackNasCo joined the game
+[15:25:25] [Server thread/INFO]: BlackNasCo[/185.207.148.105:61156] logged in with entity id 253034 at ([world]-105.16595683490591, 68.0, -50.52459118428659)
+[15:25:31] [Server thread/INFO]: BlackNasCo issued server command: /msg MrLION7 HACK
+[15:25:32] [Server thread/INFO]: BlackNasCo issued server command: /msg MrLION7 HACK
+[15:25:32] [Server thread/INFO]: BlackNasCo issued server command: /msg MrLION7 HACK
+[15:25:48] [Server thread/INFO]: BlackNasCo lost connection: Disconnected
+[15:25:48] [Server thread/INFO]: BlackNasCo left the game
+[15:35:04] [Server thread/INFO]: Lordmax issued server command: /trigger color
+[15:35:04] [Server thread/INFO]: [Lordmax: Triggered [Color]]
+[15:35:20] [Server thread/INFO]: Lordmax issued server command: /trigger color set -8
+[15:35:20] [Server thread/INFO]: [Lordmax: Triggered [Color] (set value to -8)]
+[15:35:24] [Async Chat Thread - #52/INFO]: [Not Secure] <Lordmax> ello
+[15:35:25] [User Authenticator #25/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[15:35:25] [Server thread/INFO]: Ame4me joined the game
+[15:35:25] [Server thread/INFO]: Ame4me[/103.130.18.13:14157] logged in with entity id 254798 at ([world]-107.63884807570754, 69.875, -203.28675611944803)
+[15:35:30] [Craft Scheduler Thread - 9417 - AuthMe/INFO]: [AuthMe] Ame4me logged in 103.130.18.13
+[15:35:48] [Server thread/INFO]: Ame4me issued server command: /trigger color
+[15:35:48] [Server thread/INFO]: [Ame4me: Triggered [Color]]
+[15:35:59] [Server thread/INFO]: Ame4me issued server command: /trigger color set -15
+[15:35:59] [Server thread/INFO]: [Ame4me: Triggered [Color] (set value to -15)]
+[15:42:16] [Server thread/WARN]: Lordmax moved wrongly!
+[15:50:22] [Server thread/INFO]: MrLION7 has completed the challenge [Hot Tourist Destinations]
+[15:52:27] [Server thread/INFO]: Lordmax has made the advancement [Who is Cutting Onions?]
+[16:08:25] [Async Chat Thread - #54/INFO]: [Not Secure] <MrLION7> 26 128 -370
+[16:10:01] [Async Chat Thread - #56/INFO]: [Not Secure] <MrLION7> 26 128 -45
+[16:32:34] [Server thread/INFO]: MrLION7 issued server command: /trigger color
+[16:32:34] [Server thread/INFO]: [MrLION7: Triggered [Color]]
+[16:32:46] [Server thread/INFO]: MrLION7 issued server command: /trigger color set -2
+[16:32:46] [Server thread/INFO]: [MrLION7: Triggered [Color] (set value to -2)]
+[16:32:52] [Async Chat Thread - #58/INFO]: [Not Secure] <MrLION7> black
+[16:32:58] [Async Chat Thread - #58/INFO]: [Not Secure] <Ame4me> racist
+[16:33:32] [Server thread/INFO]: Lordmax has made the advancement [Glow and Behold!]
+[16:50:18] [User Authenticator #26/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[16:50:18] [Server thread/INFO]: Disconnecting MrLION7 (/92.245.5.92:60007): The same username is already playing on the server!
+[16:50:18] [Server thread/INFO]: MrLION7 (/92.245.5.92:60007) lost connection: The same username is already playing on the server!
+[16:50:25] [User Authenticator #26/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[16:50:26] [Server thread/INFO]: BlackNasCo joined the game
+[16:50:26] [Server thread/INFO]: BlackNasCo[/92.245.5.92:60049] logged in with entity id 277045 at ([world]-105.16595683490591, 68.0, -50.52459118428659)
+[16:50:45] [Server thread/INFO]: BlackNasCo lost connection: Disconnected
+[16:50:45] [Server thread/INFO]: BlackNasCo left the game
+[16:51:11] [User Authenticator #26/INFO]: UUID of player AdyXek is 622db229-505e-3627-9326-55f3b70ac312
+[16:51:11] [Server thread/INFO]: Disconnecting AdyXek (/92.245.5.92:60297): You are not whitelisted on this server!
+[16:51:11] [Server thread/INFO]: AdyXek (/92.245.5.92:60297) lost connection: You are not whitelisted on this server!
+[16:58:13] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:58:13] [Server thread/INFO]: Ame4me left the game
+[17:56:58] [Server thread/WARN]: Oak Boat (vehicle of Lordmax) moved wrongly! 0.5710556545820049
+[17:56:58] [Server thread/WARN]: Oak Boat (vehicle of Lordmax) moved wrongly! 0.5546022711687328
+[17:56:58] [Server thread/WARN]: Oak Boat (vehicle of Lordmax) moved wrongly! 0.5288165600071637
+[17:56:58] [Server thread/WARN]: Oak Boat (vehicle of Lordmax) moved wrongly! 0.4461912230875127
