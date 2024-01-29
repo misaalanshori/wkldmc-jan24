@@ -1,0 +1,11 @@
+[00:31:17] [User Authenticator #9/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[00:31:17] [Server thread/INFO]: anotherMIsa joined the game
+[00:31:17] [Server thread/INFO]: anotherMIsa[/125.164.20.134:15225] logged in with entity id 117284 at ([world]-1.8303005291597798, 63.0, -142.69999998807907)
+[00:31:23] [Craft Scheduler Thread - 4396 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
+[01:06:30] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[01:06:30] [Server thread/INFO]: anotherMIsa left the game
+[01:07:28] [User Authenticator #10/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[01:07:28] [Server thread/INFO]: anotherMIsa joined the game
+[01:07:28] [Server thread/INFO]: anotherMIsa[/125.164.18.72:11398] logged in with entity id 121804 at ([world]-25.752585404456106, 66.0, -82.86453368094249)
+[01:07:31] [Craft Scheduler Thread - 4601 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
+[03:49:50] [Server thread/INFO]: anotherMIsa issued server command: /clear

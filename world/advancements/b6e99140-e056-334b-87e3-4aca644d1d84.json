@@ -1,0 +1,63 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-01-27 07:21:24 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2024-01-27 07:21:23 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}

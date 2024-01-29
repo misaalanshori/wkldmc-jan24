@@ -1,0 +1,92 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2024-01-27 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2024-01-27 07:18:23 +0000",
+      "minecraft:forest": "2024-01-27 07:14:14 +0000",
+      "minecraft:sunflower_plains": "2024-01-27 07:18:27 +0000",
+      "minecraft:river": "2024-01-27 07:14:16 +0000",
+      "minecraft:dripstone_caves": "2024-01-27 07:14:08 +0000",
+      "minecraft:plains": "2024-01-27 07:12:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-01-27 07:15:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-01-27 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-27 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-01-27 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
