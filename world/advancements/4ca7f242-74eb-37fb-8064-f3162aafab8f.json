@@ -3059,33 +3059,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_rail": "2024-01-29 17:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2024-01-29 17:36:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2024-01-29 16:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2024-01-29 17:36:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2024-01-29 17:36:48 +0000"
+      "has_obsidian": "2024-01-29 15:52:27 +0000"
     },
     "done": true
   },
@@ -3095,21 +3071,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
-      "has_obsidian": "2024-01-29 15:52:27 +0000"
+      "make_a_sign_glow": "2024-01-29 16:33:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_poppy": "2024-01-29 19:37:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-01-29 17:36:48 +0000"
+      "has_rail": "2024-01-29 17:27:38 +0000"
     },
     "done": true
   },
@@ -3125,9 +3095,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-29 17:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-29 17:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-29 17:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-29 17:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-01-29 17:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-01-29 19:37:25 +0000"
     },
     "done": true
   },

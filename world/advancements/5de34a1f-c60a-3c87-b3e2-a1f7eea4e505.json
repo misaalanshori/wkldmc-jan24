@@ -2233,15 +2233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-01-28 13:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-01-28 13:16:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_raw_iron_block": "2024-01-28 13:05:55 +0000"
+      "diamond_leggings": "2024-01-30 07:13:37 +0000"
     },
     "done": true
   },
