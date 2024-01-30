@@ -527,6 +527,7 @@
       "baked_potato": "2024-01-28 07:18:56 +0000",
       "melon_slice": "2024-01-27 09:27:48 +0000",
       "porkchop": "2024-01-26 10:03:58 +0000",
+      "golden_carrot": "2024-01-30 09:42:07 +0000",
       "apple": "2024-01-26 10:13:28 +0000",
       "cooked_rabbit": "2024-01-26 10:28:41 +0000",
       "cooked_chicken": "2024-01-28 04:35:05 +0000",
@@ -1132,8 +1133,10 @@
       "minecraft:wither_skeleton": "2024-01-27 08:16:39 +0000",
       "minecraft:ghast": "2024-01-27 06:46:06 +0000",
       "minecraft:hoglin": "2024-01-26 09:55:12 +0000",
+      "minecraft:shulker": "2024-01-30 10:03:59 +0000",
       "minecraft:piglin": "2024-01-27 06:35:15 +0000",
       "minecraft:enderman": "2024-01-26 08:58:36 +0000",
+      "minecraft:silverfish": "2024-01-30 09:51:11 +0000",
       "minecraft:magma_cube": "2024-01-26 10:12:30 +0000",
       "minecraft:spider": "2024-01-25 15:07:01 +0000",
       "minecraft:piglin_brute": "2024-01-26 10:09:50 +0000",
@@ -3076,6 +3079,145 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-01-30 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-30 08:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-01-30 10:30:22 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-01-30 10:30:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-01-30 10:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-01-30 09:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-01-30 10:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-01-30 10:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-01-30 09:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-01-30 09:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-01-30 09:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-30 10:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-01-30 08:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-01-30 08:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-01-30 09:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-01-30 09:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-01-30 08:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-30 10:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-30 08:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-01-30 10:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-30 08:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-01-30 09:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-01-30 09:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-01-30 09:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-01-30 09:53:56 +0000"
     },
     "done": true
   },

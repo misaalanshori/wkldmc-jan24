@@ -392,16 +392,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-01-26 15:03:15 +0000",
-      "apple": "2024-01-25 14:39:32 +0000",
       "chicken": "2024-01-28 13:19:04 +0000",
       "bread": "2024-01-25 16:57:50 +0000",
-      "cooked_chicken": "2024-01-27 13:50:16 +0000",
       "rotten_flesh": "2024-01-27 06:40:28 +0000",
       "sweet_berries": "2024-01-27 06:50:46 +0000",
       "salmon": "2024-01-27 06:23:13 +0000",
       "cooked_beef": "2024-01-25 14:39:29 +0000",
       "baked_potato": "2024-01-29 16:40:10 +0000",
       "porkchop": "2024-01-27 14:22:15 +0000",
+      "apple": "2024-01-25 14:39:32 +0000",
+      "cooked_chicken": "2024-01-27 13:50:16 +0000",
+      "potato": "2024-01-30 10:52:56 +0000",
       "cooked_salmon": "2024-01-25 14:52:51 +0000"
     },
     "done": false
@@ -2881,6 +2882,90 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-01-30 06:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-01-30 07:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-01-30 08:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-01-30 08:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-01-30 09:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-30 09:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-30 09:46:52 +0000"
     },
     "done": true
   },
