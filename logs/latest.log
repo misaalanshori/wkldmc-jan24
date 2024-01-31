@@ -172,3 +172,99 @@
 [10:47:31] [Server thread/WARN]: anotherMIsa moved wrongly!
 [10:48:07] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [10:48:07] [Server thread/INFO]: anotherMIsa left the game
+[12:22:11] [User Authenticator #7/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:22:11] [Server thread/INFO]: anotherMIsa joined the game
+[12:22:11] [Server thread/INFO]: anotherMIsa[/125.164.17.108:3719] logged in with entity id 70070 at ([world]3.1595840330729086, 113.0, -136.66922293380094)
+[12:22:17] [Craft Scheduler Thread - 2734 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.108
+[12:23:24] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:23:24] [Server thread/INFO]: anotherMIsa left the game
+[12:27:57] [User Authenticator #8/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:27:58] [Server thread/INFO]: anotherMIsa joined the game
+[12:27:58] [Server thread/INFO]: anotherMIsa[/125.164.20.134:3047] logged in with entity id 70567 at ([world]-102.86592077882159, 64.0, -9.300000011920929)
+[12:28:02] [Craft Scheduler Thread - 2766 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
+[12:28:16] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:29:08] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:29:18] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:29:55] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:30:27] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:30:34] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:30:35] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:33:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:33:45] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:33:46] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:33:47] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:33:50] [Server thread/INFO]: anotherMIsa issued server command: /skin clear
+[12:33:52] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[12:53:26] [User Authenticator #9/INFO]: UUID of player legendrimuru_06 is 0ba575e1-b45a-36c1-83ca-4426709bd8b6
+[12:53:26] [Server thread/INFO]: Disconnecting legendrimuru_06 (/88.231.55.249:3467): You are not whitelisted on this server!
+[12:53:26] [Server thread/INFO]: legendrimuru_06 (/88.231.55.249:3467) lost connection: You are not whitelisted on this server!
+[13:52:16] [User Authenticator #10/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[13:52:16] [Server thread/INFO]: Disconnecting ARF1407 (/180.244.132.202:19643): You are not whitelisted on this server!
+[13:52:16] [Server thread/INFO]: ARF1407 (/180.244.132.202:19643) lost connection: You are not whitelisted on this server!
+[13:54:05] [Server thread/INFO]: Added ARF1407 to the whitelist
+[13:54:41] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[13:54:42] [Server thread/INFO]: ARF1407 joined the game
+[13:54:42] [Server thread/INFO]: ARF1407[/180.244.132.202:17075] logged in with entity id 81868 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
+[13:55:12] [Server thread/INFO]: ARF1407 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[13:55:12] [Server thread/INFO]: ARF1407 left the game
+[13:55:16] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[13:55:17] [Server thread/INFO]: ARF1407 joined the game
+[13:55:17] [Server thread/INFO]: ARF1407[/180.244.132.202:23021] logged in with entity id 82030 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
+[13:55:47] [Server thread/INFO]: ARF1407 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[13:55:47] [Server thread/INFO]: ARF1407 left the game
+[13:56:00] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
+[13:56:00] [Server thread/INFO]: ARF1407 joined the game
+[13:56:00] [Server thread/INFO]: ARF1407[/180.244.132.202:21447] logged in with entity id 82216 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
+[13:56:07] [Craft Scheduler Thread - 3289 - AuthMe/INFO]: [AuthMe] ARF1407 logged in 180.244.132.202
+[13:57:13] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[13:57:13] [Server thread/INFO]: ARF1407 left the game
+[14:07:30] [User Authenticator #12/INFO]: UUID of player DonTito is 5e71a457-a2d1-3a64-b033-d3af79e2932a
+[14:07:30] [Server thread/INFO]: Disconnecting DonTito (/47.220.253.36:64892): You are not whitelisted on this server!
+[14:07:30] [Server thread/INFO]: DonTito (/47.220.253.36:64892) lost connection: You are not whitelisted on this server!
+[14:07:39] [User Authenticator #12/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[14:07:39] [Server thread/INFO]: Gyhh_ joined the game
+[14:07:39] [Server thread/INFO]: Gyhh_[/47.220.253.36:64900] logged in with entity id 84236 at ([world]-263.78216814056134, 10.0, -104.39320562225905)
+[14:07:44] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[14:07:44] [Server thread/INFO]: Gyhh_ left the game
+[14:26:21] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[14:26:21] [Server thread/INFO]: anotherMIsa left the game
+[14:35:14] [User Authenticator #13/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[14:35:18] [Server thread/INFO]: Ame4me joined the game
+[14:35:18] [Server thread/INFO]: Ame4me[/66.96.225.135:59323] logged in with entity id 86812 at ([world]-105.34797168314823, 63.0, -7.563949014877235)
+[14:35:30] [Craft Scheduler Thread - 3516 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
+[14:36:03] [Server thread/WARN]: Ame4me was kicked due to keepalive timeout!
+[14:36:03] [Server thread/INFO]: Ame4me lost connection: Timed out
+[14:36:03] [Server thread/INFO]: Ame4me left the game
+[14:36:44] [User Authenticator #14/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[14:36:44] [Server thread/INFO]: anotherMIsa joined the game
+[14:36:44] [Server thread/INFO]: anotherMIsa[/125.164.17.108:14590] logged in with entity id 86988 at ([world]13.897728352196449, 117.0, -155.92182187256014)
+[14:36:54] [Craft Scheduler Thread - 3524 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.108
+[14:37:08] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[14:37:08] [Server thread/INFO]: anotherMIsa left the game
+[14:40:29] [User Authenticator #15/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[14:40:29] [Server thread/INFO]: MrLION7 joined the game
+[14:40:29] [Server thread/INFO]: MrLION7[/182.253.54.108:31019] logged in with entity id 87079 at ([world]-85.93128466082722, 63.0, -46.60700746815394)
+[14:40:39] [Craft Scheduler Thread - 3546 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
+[14:47:33] [User Authenticator #16/INFO]: UUID of player iVaughn is 5b6ff3c7-ba70-3a04-834f-5cf9f24258a2
+[14:47:33] [Server thread/INFO]: Disconnecting iVaughn (/2.35.201.95:52407): You are not whitelisted on this server!
+[14:47:33] [Server thread/INFO]: iVaughn (/2.35.201.95:52407) lost connection: You are not whitelisted on this server!
+[14:50:40] [User Authenticator #17/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[14:50:40] [Server thread/INFO]: Lordmax joined the game
+[14:50:40] [Server thread/INFO]: Lordmax[/36.69.108.116:55206] logged in with entity id 88880 at ([world]-161.76453293065768, 46.64916131183324, -187.94034109645526)
+[14:50:49] [Craft Scheduler Thread - 3598 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.108.116
+[14:51:15] [User Authenticator #17/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[14:51:15] [Server thread/INFO]: Ame4me joined the game
+[14:51:15] [Server thread/INFO]: Ame4me[/66.96.225.135:59542] logged in with entity id 88948 at ([world]-110.95913095265132, 65.0, -7.553563446096418)
+[14:51:23] [Craft Scheduler Thread - 3602 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
+[15:01:02] [Server thread/INFO]: Named entity EntityZombie['Blackman'/90013, uuid='97e95605-3479-446d-b939-4cd80152e5c8', l='ServerLevel[world]', x=-169.51, y=51.49, z=-185.94, cpos=[-11, -12], tl=5786, v=true] died: Blackman was slain by Iron Golem
+[15:02:26] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[15:02:26] [Server thread/INFO]: Ame4me left the game
+[15:10:34] [User Authenticator #18/INFO]: UUID of player iVaughn is 5b6ff3c7-ba70-3a04-834f-5cf9f24258a2
+[15:10:34] [Server thread/INFO]: Disconnecting iVaughn (/2.35.201.95:54716): You are not whitelisted on this server!
+[15:10:34] [Server thread/INFO]: iVaughn (/2.35.201.95:54716) lost connection: You are not whitelisted on this server!
+[16:11:51] [Server thread/INFO]: Named entity EntityZombie['silence'/101155, uuid='e7faf3d5-1128-4bfa-9882-50ffe8a59f3c', l='ServerLevel[world]', x=-169.11, y=30.08, z=-176.30, cpos=[-11, -12], tl=5834, v=true] died: silence tried to swim in lava
+[16:24:09] [Server thread/INFO]: Villager EntityVillager['Villager'/103776, uuid='fce3501f-d9fd-416f-b9a6-2b22c15920f8', l='ServerLevel[world]', x=-176.66, y=46.19, z=-187.87, cpos=[-12, -12], tl=243, v=true] died, message: 'Villager was slain by Lordmax'
+[16:28:35] [Server thread/INFO]: Villager EntityVillager['Romeo'/16, uuid='bd9d1a46-4bf3-4b44-848d-56c97fef9255', l='ServerLevel[world]', x=-175.91, y=46.94, z=-170.34, cpos=[-11, -11], tl=3492457, v=true] died, message: 'Romeo suffocated in a wall'
+[16:28:35] [Server thread/INFO]: Named entity EntityVillager['Romeo'/16, uuid='bd9d1a46-4bf3-4b44-848d-56c97fef9255', l='ServerLevel[world]', x=-175.91, y=46.94, z=-170.34, cpos=[-11, -11], tl=3492457, v=true] died: Romeo suffocated in a wall
+[16:37:02] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[16:37:02] [Server thread/INFO]: MrLION7 left the game

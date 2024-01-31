@@ -478,15 +478,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_planks": "2024-01-26 15:15:42 +0000"
+      "slept_in_bed": "2024-01-26 15:07:30 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:nether/root": {
     "criteria": {
-      "iron_pickaxe": "2024-01-26 15:17:13 +0000"
+      "entered_nether": "2024-01-26 15:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-26 15:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-01-26 15:10:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-01-26 15:15:42 +0000"
     },
     "done": true
   },
@@ -502,27 +520,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-01-26 15:10:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-01-26 15:10:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-01-26 15:15:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-01-26 15:10:18 +0000"
     },
     "done": true
   },
@@ -544,12 +544,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-01-26 15:07:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-01-26 15:15:42 +0000"
@@ -568,15 +562,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-01-26 15:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-01-26 15:15:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_planks": "2024-01-26 15:15:42 +0000"
+      "iron_pickaxe": "2024-01-26 15:17:13 +0000"
     },
     "done": true
   },

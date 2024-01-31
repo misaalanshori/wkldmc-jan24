@@ -3222,12 +3222,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-01-30 14:39:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-01-30 14:39:22 +0000"
@@ -3237,6 +3231,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-01-30 14:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-01-30 14:39:34 +0000"
     },
     "done": true
   },

@@ -396,7 +396,9 @@
       "cooked_chicken": "2024-01-30 03:07:44 +0000",
       "rotten_flesh": "2024-01-30 03:13:54 +0000",
       "potato": "2024-01-31 10:42:27 +0000",
-      "cooked_beef": "2024-01-27 08:33:21 +0000"
+      "cooked_beef": "2024-01-27 08:33:21 +0000",
+      "cod": "2024-01-31 14:04:22 +0000",
+      "cooked_salmon": "2024-01-31 14:04:03 +0000"
     },
     "done": false
   },
@@ -2712,6 +2714,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-01-30 14:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-01-31 14:23:47 +0000"
     },
     "done": true
   },
