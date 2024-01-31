@@ -123,3 +123,52 @@
 [05:57:48] [Server thread/INFO]: anotherMIsa joined the game
 [05:57:48] [Server thread/INFO]: anotherMIsa[/125.164.21.115:13075] logged in with entity id 22004 at ([world]4.699999988079071, 113.5625, -138.69999998807907)
 [05:57:52] [Craft Scheduler Thread - 656 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.115
+[06:28:41] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[06:32:22] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[06:32:22] [Server thread/INFO]: anotherMIsa left the game
+[07:07:28] [User Authenticator #3/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:07:28] [Server thread/INFO]: anotherMIsa joined the game
+[07:07:28] [Server thread/INFO]: anotherMIsa[/125.164.20.134:7560] logged in with entity id 32398 at ([world]6.199457879742767, 117.0, -146.84990060205948)
+[07:07:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Lordmax> alo
+[07:07:36] [Craft Scheduler Thread - 1014 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
+[07:08:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Lordmax> nether fotress koordinat nethernya apa
+[07:08:36] [Async Chat Thread - #2/INFO]: [Not Secure] <anotherMIsa> kurang tau belum pernah kesana
+[07:51:54] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:51:54] [Server thread/INFO]: anotherMIsa left the game
+[07:57:15] [User Authenticator #4/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:57:15] [Server thread/INFO]: anotherMIsa joined the game
+[07:57:15] [Server thread/INFO]: anotherMIsa[/125.164.18.72:31671] logged in with entity id 49105 at ([world]-4.4390661048724, 109.0, -129.5821291836926)
+[07:57:18] [Craft Scheduler Thread - 1236 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
+[07:57:23] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:00:04] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:00:21] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:00:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:01:09] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:01:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:04:11] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:04:44] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:05:25] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:07:31] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:07:48] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:08:33] [Server thread/INFO]: Lordmax lost connection: Timed out
+[08:08:33] [Server thread/INFO]: Lordmax left the game
+[08:15:23] [Server thread/INFO]: anotherMIsa issued server command: /skin update
+[08:24:01] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:24:01] [Server thread/INFO]: anotherMIsa left the game
+[08:40:41] [User Authenticator #5/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:40:42] [Server thread/INFO]: anotherMIsa joined the game
+[08:40:42] [Server thread/INFO]: anotherMIsa[/125.164.22.155:27149] logged in with entity id 53376 at ([world]-6.235283209884165, 117.0, -142.69085221142274)
+[08:40:46] [Craft Scheduler Thread - 1472 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.155
+[08:42:07] [Server thread/INFO]: Made anotherMIsa a server operator
+[08:42:10] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
+[08:42:40] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
+[08:42:45] [Server thread/INFO]: Made anotherMIsa no longer a server operator
+[09:49:26] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[09:49:26] [Server thread/INFO]: anotherMIsa left the game
+[10:35:10] [User Authenticator #6/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[10:35:10] [Server thread/INFO]: anotherMIsa joined the game
+[10:35:10] [Server thread/INFO]: anotherMIsa[/125.164.23.148:9069] logged in with entity id 67029 at ([world]4.699999988079071, 113.5625, -138.69999998807907)
+[10:35:13] [Craft Scheduler Thread - 2109 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.148
+[10:47:31] [Server thread/WARN]: anotherMIsa moved wrongly!
+[10:48:07] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[10:48:07] [Server thread/INFO]: anotherMIsa left the game
