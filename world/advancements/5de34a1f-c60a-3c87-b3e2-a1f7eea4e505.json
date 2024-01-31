@@ -2597,27 +2597,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-01-30 17:00:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-01-30 16:59:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-01-30 16:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-01-30 17:00:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_reeds": "2024-01-30 16:59:57 +0000"
+      "has_paper": "2024-01-30 17:00:43 +0000"
     },
     "done": true
   },
