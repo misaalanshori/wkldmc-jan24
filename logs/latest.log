@@ -1,272 +1,188 @@
-[03:56:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:56:51] [ServerMain/INFO]: Loaded 1174 recipes
-[03:56:52] [ServerMain/INFO]: Loaded 1281 advancements
-[03:56:52] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:56:52] [Server thread/INFO]: Loading properties
-[03:56:52] [Server thread/INFO]: This server is running Paper version git-Paper-398 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: b700460)
-[03:56:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:56:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:56:53] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:56:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:56:53] [Server thread/INFO]: Default game type: SURVIVAL
-[03:56:53] [Server thread/INFO]: Generating keypair
-[03:56:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:56:53] [Server thread/INFO]: Using epoll channel type
-[03:56:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:56:53] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[03:56:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3-SNAPSHOT
-[03:56:54] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[03:56:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:56:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:56:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[03:56:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[03:56:55] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
-[03:56:56] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2-SNAPSHOT
-[03:56:56] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.6
-[03:56:56] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-4-935
-[03:56:56] [Server thread/INFO]: [dynmap] version=git-Paper-398 (MC: 1.20.4)
-[03:56:56] [Server thread/INFO]: [dynmap] Mod Support API available
-[03:56:56] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
-[03:56:56] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
-[03:56:56] [Server thread/INFO]: [SpigotPing] Loading server plugin SpigotPing v2.6
-[03:56:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:56:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
-[03:56:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.6
-[03:56:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
-[03:56:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:56:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:56:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:56:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:56:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:56:57] [Server thread/INFO]: Preparing level "world"
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.0.6
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 3b21903
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:56:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:56:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:56:58] [Server thread/INFO]: Time elapsed: 254 ms
-[03:56:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:56:59] [Server thread/INFO]: Time elapsed: 1373 ms
-[03:56:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:56:59] [Server thread/INFO]: Time elapsed: 59 ms
-[03:56:59] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3-SNAPSHOT
-[03:56:59] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
-[03:56:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2-SNAPSHOT
-[03:56:59] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
-[03:57:00] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[03:57:00] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[03:57:00] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[03:57:00] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[03:57:03] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[03:57:04] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[03:57:04] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[03:57:04] [Server thread/INFO]: [dynmap] Web server started on address 127.0.0.1:8123
-[03:57:04] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
-[03:57:04] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[03:57:04] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[03:57:04] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[03:57:04] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 17 pending tile renders for world 'world'
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[03:57:04] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[03:57:04] [Server thread/INFO]: [dynmap] Enabled
-[03:57:04] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
-[03:57:04] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[03:57:04] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[03:57:04] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
-[03:57:04] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
-[03:57:05] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
-[03:57:05] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[03:57:05] [Server thread/INFO]: --------------------
-[03:57:05] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[03:57:05] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[03:57:05] [Server thread/INFO]: --------------------
-[03:57:05] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[03:57:05] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[03:57:05] [Server thread/INFO]: Running delayed init tasks
-[03:57:05] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[03:57:05] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[03:57:05] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[03:57:05] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[03:57:05] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[03:57:05] [Server thread/INFO]: Done (12.851s)! For help, type "help"
-[03:57:05] [Server thread/INFO]: Timings Reset
-[03:57:05] [Server thread/WARN]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[03:57:05] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[03:57:09] [User Authenticator #0/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:57:09] [Server thread/INFO]: anotherMIsa joined the game
-[03:57:09] [Server thread/INFO]: anotherMIsa[/125.164.19.74:14695] logged in with entity id 507 at ([world]1.628870469155861, 113.0, -135.92514800895)
-[03:57:14] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.74
-[03:57:17] [Server thread/INFO]: anotherMIsa issued server command: /skin clear
-[04:20:00] [User Authenticator #1/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
-[04:20:00] [Server thread/INFO]: Lordmax joined the game
-[04:20:00] [Server thread/INFO]: Lordmax[/180.244.139.146:11317] logged in with entity id 3018 at ([world]-133.2982327862115, 52.0, -179.3243087483627)
-[04:20:07] [Craft Scheduler Thread - 144 - AuthMe/INFO]: [AuthMe] Lordmax logged in 180.244.139.146
-[04:23:20] [Async Chat Thread - #1/INFO]: [Not Secure] <Lordmax> afk mau mandi
-[05:19:29] [Server thread/INFO]: There are 2 of a max of 20 players online: anotherMIsa, Lordmax
-[05:49:19] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[05:49:53] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[05:49:53] [Server thread/INFO]: anotherMIsa left the game
-[05:57:48] [User Authenticator #2/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[05:57:48] [Server thread/INFO]: anotherMIsa joined the game
-[05:57:48] [Server thread/INFO]: anotherMIsa[/125.164.21.115:13075] logged in with entity id 22004 at ([world]4.699999988079071, 113.5625, -138.69999998807907)
-[05:57:52] [Craft Scheduler Thread - 656 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.115
-[06:28:41] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[06:32:22] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[06:32:22] [Server thread/INFO]: anotherMIsa left the game
-[07:07:28] [User Authenticator #3/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:07:28] [Server thread/INFO]: anotherMIsa joined the game
-[07:07:28] [Server thread/INFO]: anotherMIsa[/125.164.20.134:7560] logged in with entity id 32398 at ([world]6.199457879742767, 117.0, -146.84990060205948)
-[07:07:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Lordmax> alo
-[07:07:36] [Craft Scheduler Thread - 1014 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
-[07:08:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Lordmax> nether fotress koordinat nethernya apa
-[07:08:36] [Async Chat Thread - #2/INFO]: [Not Secure] <anotherMIsa> kurang tau belum pernah kesana
-[07:51:54] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:51:54] [Server thread/INFO]: anotherMIsa left the game
-[07:57:15] [User Authenticator #4/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:57:15] [Server thread/INFO]: anotherMIsa joined the game
-[07:57:15] [Server thread/INFO]: anotherMIsa[/125.164.18.72:31671] logged in with entity id 49105 at ([world]-4.4390661048724, 109.0, -129.5821291836926)
-[07:57:18] [Craft Scheduler Thread - 1236 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.72
-[07:57:23] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:00:04] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:00:21] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:00:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:01:09] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:01:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:04:11] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:04:44] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:05:25] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:07:31] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:07:48] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:08:33] [Server thread/INFO]: Lordmax lost connection: Timed out
-[08:08:33] [Server thread/INFO]: Lordmax left the game
-[08:15:23] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[08:24:01] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:24:01] [Server thread/INFO]: anotherMIsa left the game
-[08:40:41] [User Authenticator #5/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:40:42] [Server thread/INFO]: anotherMIsa joined the game
-[08:40:42] [Server thread/INFO]: anotherMIsa[/125.164.22.155:27149] logged in with entity id 53376 at ([world]-6.235283209884165, 117.0, -142.69085221142274)
-[08:40:46] [Craft Scheduler Thread - 1472 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.155
-[08:42:07] [Server thread/INFO]: Made anotherMIsa a server operator
-[08:42:10] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
-[08:42:40] [Server thread/INFO]: anotherMIsa issued server command: /co inspect
-[08:42:45] [Server thread/INFO]: Made anotherMIsa no longer a server operator
-[09:49:26] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:49:26] [Server thread/INFO]: anotherMIsa left the game
-[10:35:10] [User Authenticator #6/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[10:35:10] [Server thread/INFO]: anotherMIsa joined the game
-[10:35:10] [Server thread/INFO]: anotherMIsa[/125.164.23.148:9069] logged in with entity id 67029 at ([world]4.699999988079071, 113.5625, -138.69999998807907)
-[10:35:13] [Craft Scheduler Thread - 2109 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.148
-[10:47:31] [Server thread/WARN]: anotherMIsa moved wrongly!
-[10:48:07] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[10:48:07] [Server thread/INFO]: anotherMIsa left the game
-[12:22:11] [User Authenticator #7/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:22:11] [Server thread/INFO]: anotherMIsa joined the game
-[12:22:11] [Server thread/INFO]: anotherMIsa[/125.164.17.108:3719] logged in with entity id 70070 at ([world]3.1595840330729086, 113.0, -136.66922293380094)
-[12:22:17] [Craft Scheduler Thread - 2734 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.108
-[12:23:24] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[12:23:24] [Server thread/INFO]: anotherMIsa left the game
-[12:27:57] [User Authenticator #8/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:27:58] [Server thread/INFO]: anotherMIsa joined the game
-[12:27:58] [Server thread/INFO]: anotherMIsa[/125.164.20.134:3047] logged in with entity id 70567 at ([world]-102.86592077882159, 64.0, -9.300000011920929)
-[12:28:02] [Craft Scheduler Thread - 2766 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
-[12:28:16] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:29:08] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:29:18] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:29:55] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:30:27] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:30:34] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:30:35] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:33:43] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:33:45] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:33:46] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:33:47] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:33:50] [Server thread/INFO]: anotherMIsa issued server command: /skin clear
-[12:33:52] [Server thread/INFO]: anotherMIsa issued server command: /skin update
-[12:53:26] [User Authenticator #9/INFO]: UUID of player legendrimuru_06 is 0ba575e1-b45a-36c1-83ca-4426709bd8b6
-[12:53:26] [Server thread/INFO]: Disconnecting legendrimuru_06 (/88.231.55.249:3467): You are not whitelisted on this server!
-[12:53:26] [Server thread/INFO]: legendrimuru_06 (/88.231.55.249:3467) lost connection: You are not whitelisted on this server!
-[13:52:16] [User Authenticator #10/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[13:52:16] [Server thread/INFO]: Disconnecting ARF1407 (/180.244.132.202:19643): You are not whitelisted on this server!
-[13:52:16] [Server thread/INFO]: ARF1407 (/180.244.132.202:19643) lost connection: You are not whitelisted on this server!
-[13:54:05] [Server thread/INFO]: Added ARF1407 to the whitelist
-[13:54:41] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[13:54:42] [Server thread/INFO]: ARF1407 joined the game
-[13:54:42] [Server thread/INFO]: ARF1407[/180.244.132.202:17075] logged in with entity id 81868 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
-[13:55:12] [Server thread/INFO]: ARF1407 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[13:55:12] [Server thread/INFO]: ARF1407 left the game
-[13:55:16] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[13:55:17] [Server thread/INFO]: ARF1407 joined the game
-[13:55:17] [Server thread/INFO]: ARF1407[/180.244.132.202:23021] logged in with entity id 82030 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
-[13:55:47] [Server thread/INFO]: ARF1407 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[13:55:47] [Server thread/INFO]: ARF1407 left the game
-[13:56:00] [User Authenticator #11/INFO]: UUID of player ARF1407 is 39776db0-953c-3716-a9fd-a7780e1cf128
-[13:56:00] [Server thread/INFO]: ARF1407 joined the game
-[13:56:00] [Server thread/INFO]: ARF1407[/180.244.132.202:21447] logged in with entity id 82216 at ([world]-162.02129178553494, 118.0, -276.12377802922157)
-[13:56:07] [Craft Scheduler Thread - 3289 - AuthMe/INFO]: [AuthMe] ARF1407 logged in 180.244.132.202
-[13:57:13] [Server thread/INFO]: ARF1407 lost connection: Disconnected
-[13:57:13] [Server thread/INFO]: ARF1407 left the game
-[14:07:30] [User Authenticator #12/INFO]: UUID of player DonTito is 5e71a457-a2d1-3a64-b033-d3af79e2932a
-[14:07:30] [Server thread/INFO]: Disconnecting DonTito (/47.220.253.36:64892): You are not whitelisted on this server!
-[14:07:30] [Server thread/INFO]: DonTito (/47.220.253.36:64892) lost connection: You are not whitelisted on this server!
-[14:07:39] [User Authenticator #12/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[14:07:39] [Server thread/INFO]: Gyhh_ joined the game
-[14:07:39] [Server thread/INFO]: Gyhh_[/47.220.253.36:64900] logged in with entity id 84236 at ([world]-263.78216814056134, 10.0, -104.39320562225905)
-[14:07:44] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[14:07:44] [Server thread/INFO]: Gyhh_ left the game
-[14:26:21] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[14:26:21] [Server thread/INFO]: anotherMIsa left the game
-[14:35:14] [User Authenticator #13/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
-[14:35:18] [Server thread/INFO]: Ame4me joined the game
-[14:35:18] [Server thread/INFO]: Ame4me[/66.96.225.135:59323] logged in with entity id 86812 at ([world]-105.34797168314823, 63.0, -7.563949014877235)
-[14:35:30] [Craft Scheduler Thread - 3516 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
-[14:36:03] [Server thread/WARN]: Ame4me was kicked due to keepalive timeout!
-[14:36:03] [Server thread/INFO]: Ame4me lost connection: Timed out
-[14:36:03] [Server thread/INFO]: Ame4me left the game
-[14:36:44] [User Authenticator #14/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[14:36:44] [Server thread/INFO]: anotherMIsa joined the game
-[14:36:44] [Server thread/INFO]: anotherMIsa[/125.164.17.108:14590] logged in with entity id 86988 at ([world]13.897728352196449, 117.0, -155.92182187256014)
-[14:36:54] [Craft Scheduler Thread - 3524 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.108
-[14:37:08] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[14:37:08] [Server thread/INFO]: anotherMIsa left the game
-[14:40:29] [User Authenticator #15/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[14:40:29] [Server thread/INFO]: MrLION7 joined the game
-[14:40:29] [Server thread/INFO]: MrLION7[/182.253.54.108:31019] logged in with entity id 87079 at ([world]-85.93128466082722, 63.0, -46.60700746815394)
-[14:40:39] [Craft Scheduler Thread - 3546 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
-[14:47:33] [User Authenticator #16/INFO]: UUID of player iVaughn is 5b6ff3c7-ba70-3a04-834f-5cf9f24258a2
-[14:47:33] [Server thread/INFO]: Disconnecting iVaughn (/2.35.201.95:52407): You are not whitelisted on this server!
-[14:47:33] [Server thread/INFO]: iVaughn (/2.35.201.95:52407) lost connection: You are not whitelisted on this server!
-[14:50:40] [User Authenticator #17/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
-[14:50:40] [Server thread/INFO]: Lordmax joined the game
-[14:50:40] [Server thread/INFO]: Lordmax[/36.69.108.116:55206] logged in with entity id 88880 at ([world]-161.76453293065768, 46.64916131183324, -187.94034109645526)
-[14:50:49] [Craft Scheduler Thread - 3598 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.108.116
-[14:51:15] [User Authenticator #17/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
-[14:51:15] [Server thread/INFO]: Ame4me joined the game
-[14:51:15] [Server thread/INFO]: Ame4me[/66.96.225.135:59542] logged in with entity id 88948 at ([world]-110.95913095265132, 65.0, -7.553563446096418)
-[14:51:23] [Craft Scheduler Thread - 3602 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
-[15:01:02] [Server thread/INFO]: Named entity EntityZombie['Blackman'/90013, uuid='97e95605-3479-446d-b939-4cd80152e5c8', l='ServerLevel[world]', x=-169.51, y=51.49, z=-185.94, cpos=[-11, -12], tl=5786, v=true] died: Blackman was slain by Iron Golem
-[15:02:26] [Server thread/INFO]: Ame4me lost connection: Disconnected
-[15:02:26] [Server thread/INFO]: Ame4me left the game
-[15:10:34] [User Authenticator #18/INFO]: UUID of player iVaughn is 5b6ff3c7-ba70-3a04-834f-5cf9f24258a2
-[15:10:34] [Server thread/INFO]: Disconnecting iVaughn (/2.35.201.95:54716): You are not whitelisted on this server!
-[15:10:34] [Server thread/INFO]: iVaughn (/2.35.201.95:54716) lost connection: You are not whitelisted on this server!
-[16:11:51] [Server thread/INFO]: Named entity EntityZombie['silence'/101155, uuid='e7faf3d5-1128-4bfa-9882-50ffe8a59f3c', l='ServerLevel[world]', x=-169.11, y=30.08, z=-176.30, cpos=[-11, -12], tl=5834, v=true] died: silence tried to swim in lava
-[16:24:09] [Server thread/INFO]: Villager EntityVillager['Villager'/103776, uuid='fce3501f-d9fd-416f-b9a6-2b22c15920f8', l='ServerLevel[world]', x=-176.66, y=46.19, z=-187.87, cpos=[-12, -12], tl=243, v=true] died, message: 'Villager was slain by Lordmax'
-[16:28:35] [Server thread/INFO]: Villager EntityVillager['Romeo'/16, uuid='bd9d1a46-4bf3-4b44-848d-56c97fef9255', l='ServerLevel[world]', x=-175.91, y=46.94, z=-170.34, cpos=[-11, -11], tl=3492457, v=true] died, message: 'Romeo suffocated in a wall'
-[16:28:35] [Server thread/INFO]: Named entity EntityVillager['Romeo'/16, uuid='bd9d1a46-4bf3-4b44-848d-56c97fef9255', l='ServerLevel[world]', x=-175.91, y=46.94, z=-170.34, cpos=[-11, -11], tl=3492457, v=true] died: Romeo suffocated in a wall
-[16:37:02] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[16:37:02] [Server thread/INFO]: MrLION7 left the game
-[18:47:44] [Server thread/INFO]: Lordmax lost connection: Disconnected
-[18:47:44] [Server thread/INFO]: Lordmax left the game
+[00:53:15] [User Authenticator #19/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[00:53:16] [Server thread/INFO]: anotherMIsa joined the game
+[00:53:16] [Server thread/INFO]: anotherMIsa[/125.164.21.115:20828] logged in with entity id 125851 at ([world]5.260772234091253, 117.0, -144.3188081795853)
+[00:53:31] [Craft Scheduler Thread - 6910 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.115
+[00:56:25] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:56:25] [Server thread/INFO]: anotherMIsa left the game
+[01:02:35] [User Authenticator #20/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[01:02:36] [Server thread/INFO]: anotherMIsa joined the game
+[01:02:36] [Server thread/INFO]: anotherMIsa[/125.164.23.148:31989] logged in with entity id 126583 at ([world]2.6504914573602116, 117.0, -146.5064892786864)
+[01:02:49] [Craft Scheduler Thread - 6962 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.148
+[01:03:20] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[01:03:20] [Server thread/INFO]: anotherMIsa left the game
+[02:14:46] [User Authenticator #21/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[02:14:46] [Server thread/INFO]: anotherMIsa joined the game
+[02:14:46] [Server thread/INFO]: anotherMIsa[/125.164.20.134:17542] logged in with entity id 126775 at ([world]20.12815598955343, 118.0, -151.84405753029245)
+[02:14:51] [Craft Scheduler Thread - 7383 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.134
+[03:24:00] [User Authenticator #22/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[03:24:02] [Server thread/INFO]: Gyhh_ joined the game
+[03:24:02] [Server thread/INFO]: Gyhh_[/36.74.224.208:3385] logged in with entity id 134970 at ([world]-263.78216814056134, 10.0, -104.39320562225905)
+[03:24:09] [Craft Scheduler Thread - 7780 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.74.224.208
+[03:24:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Gyhh_> hello sir
+[03:30:47] [Async Chat Thread - #6/INFO]: [Not Secure] <anotherMIsa> helo
+[03:31:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Gyhh_> sudah saatnya
+[03:31:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Gyhh_> membuat base
+[03:34:25] [Async Chat Thread - #8/INFO]: [Not Secure] <anotherMIsa> wkwk
+[03:39:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Gyhh_> so
+[03:39:11] [Async Chat Thread - #10/INFO]: [Not Secure] <anotherMIsa> so?
+[03:39:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Gyhh_> no super smelting?
+[03:39:23] [Async Chat Thread - #10/INFO]: [Not Secure] <anotherMIsa> belum bikin sih :v
+[03:39:33] [Async Chat Thread - #10/INFO]: [Not Secure] <anotherMIsa> perlu bikin bamboo farm
+[03:48:12] [Server thread/INFO]: Gyhh_ issued server command: /me makan
+[03:48:12] [Async Chat Thread - #12/INFO]: [Not Secure] * Gyhh_ makan
+[03:48:14] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[03:48:14] [Server thread/INFO]: Gyhh_ left the game
+[03:58:59] [Server thread/INFO]: Villager EntityVillager['Villager'/32, uuid='df3cc40b-9550-440f-8536-424360398e10', l='ServerLevel[world]', x=-93.37, y=62.19, z=-54.24, cpos=[-6, -4], tl=2664711, v=true] died, message: 'Villager suffocated in a wall'
+[04:18:13] [User Authenticator #23/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[04:18:13] [Server thread/INFO]: Gyhh_ joined the game
+[04:18:13] [Server thread/INFO]: Gyhh_[/36.74.224.208:3515] logged in with entity id 148320 at ([world]-251.02595658463446, 103.0, -208.76066454625047)
+[04:18:22] [Craft Scheduler Thread - 8084 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.74.224.208
+[04:19:00] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> helo
+[04:19:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> gimana caranya dapat elytra berwarna gitu
+[04:19:10] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> cape
+[04:19:41] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> enable cape kamu
+[04:20:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> how
+[04:20:17] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> kamu premium kan?
+[04:20:27] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> iyes
+[04:20:46] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> edit skin kamu di minecraft launcher, kalau kamu punya cape bisa di enable disitu
+[04:20:55] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> kamu ngevote kemaren kan? dapet cape ini harusnya
+[04:21:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> enggak aku gak vote :v
+[04:21:07] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> lah
+[04:21:14] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> cuma ngomong doang :v
+[04:21:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Gyhh_> hehe
+[04:21:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> lupa
+[04:21:24] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> cek aja halaman skins kamu ada cape atau gak
+[04:21:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> ngkeh
+[04:21:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> arigatouu
+[04:21:34] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> iyaa
+[04:21:49] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> oh iya habis tuh kalau gak langsung muncul jalanin /skin update
+[04:21:56] [Server thread/INFO]: Gyhh_ issued server command: /skin update
+[04:22:08] [Async Chat Thread - #13/INFO]: [Not Secure] <Gyhh_> baiklah
+[04:22:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> nanti aja
+[04:22:49] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> ouh kamu gak punya cape kayaknya :v
+[04:22:53] [Async Chat Thread - #14/INFO]: [Not Secure] <anotherMIsa> di namemc kosong wkwk
+[04:22:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> baiklah
+[04:23:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Gyhh_> bjir ada villager mending yang murah
+[04:23:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Gyhh_> 16 emeral
+[04:23:14] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> iya baru itu
+[04:24:13] [Async Chat Thread - #13/INFO]: [Not Secure] <anotherMIsa> DarkGravy :v
+[04:32:09] [User Authenticator #24/INFO]: UUID of player BlackNasCo is 9d8e7bb6-b364-3190-bfd3-644271e288ec
+[04:32:09] [Server thread/INFO]: BlackNasCo joined the game
+[04:32:09] [Server thread/INFO]: BlackNasCo[/180.244.135.208:11507] logged in with entity id 153114 at ([world]-111.72581080184271, 65.1875, -7.588196532208486)
+[04:32:20] [Craft Scheduler Thread - 8163 - AuthMe/INFO]: [AuthMe] BlackNasCo logged in 180.244.135.208
+[04:32:23] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> elooo
+[04:32:25] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> halo
+[04:32:31] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> kita ada sangat banyak villager
+[04:32:32] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> req butuh batu?
+[04:32:57] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> damnn
+[04:32:59] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> nice
+[04:33:09] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> ada villager mending lebih murah
+[04:33:14] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> tinggal bikin yg buat nyari duitnya
+[04:33:16] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> yg mana
+[04:33:17] [Async Chat Thread - #16/INFO]: [Not Secure] <anotherMIsa> yang lama kita hilangkan saja?
+[04:34:06] [Async Chat Thread - #16/INFO]: [Not Secure] <BlackNasCo> 1 lg librariannya nanggung
+[04:34:13] [Async Chat Thread - #16/INFO]: [Not Secure] <anotherMIsa> iya
+[04:34:15] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> abis ini bikin yg buat jual2
+[04:34:17] [Async Chat Thread - #15/INFO]: [Not Secure] <anotherMIsa> ada minecart gak
+[04:34:30] [Async Chat Thread - #15/INFO]: [Not Secure] <BlackNasCo> ada
+[04:34:31] [Async Chat Thread - #16/INFO]: [Not Secure] <BlackNasCo> wait
+[04:35:40] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> lah
+[04:35:51] [Async Chat Thread - #17/INFO]: [Not Secure] <anotherMIsa> ini villager mending lama
+[04:35:54] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> 24e
+[04:35:59] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> mau di apain?
+[04:36:06] [Async Chat Thread - #17/INFO]: [Not Secure] <anotherMIsa> bunuh?
+[04:36:11] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> kasian
+[04:36:19] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> aku butuh 2 slot lagi
+[04:36:22] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> pindahin aja nanti gw pake buat jd npc toko
+[04:36:27] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> oke
+[04:36:31] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> gamau keluar dia :v
+[04:36:40] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> minta rail sama cartnya coba
+[04:37:35] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> mau taro dimana dia
+[04:37:46] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> disitu aja dulu wkwk
+[04:37:50] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> aku butuh minecart lagi
+[04:38:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> ya
+[04:38:42] [Async Chat Thread - #17/INFO]: [Not Secure] <Gyhh_> aku butuh batu
+[04:38:46] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> berapa?
+[04:38:49] [Async Chat Thread - #17/INFO]: [Not Secure] <Gyhh_> satu shulker box
+[04:38:54] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> njay otw
+[04:38:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> gratis?
+[04:39:07] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> mau yg udh di bakar atau belum?
+[04:39:17] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> gratis bole bayar juga bole hehe
+[04:39:33] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> gw gak ada diamond lagi soalnya
+[04:39:38] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> sans
+[04:39:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> yang stone
+[04:39:43] [Async Chat Thread - #17/INFO]: [Not Secure] <Gyhh_> sudah di bakar
+[04:39:48] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> yg udh di bakar berarti hmmm
+[04:39:57] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackNasCo> sabar kalau gitu
+[04:40:05] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> gw juga mau ngeratain gunung
+[04:40:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> buat nyari resource
+[04:40:45] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> farm creeper dimana sih?
+[04:40:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Gyhh_> laut
+[04:40:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Gyhh_> liat aja di dynamic map
+[04:40:57] [Async Chat Thread - #18/INFO]: [Not Secure] <anotherMIsa> 76 244
+[04:41:03] [Async Chat Thread - #17/INFO]: [Not Secure] <BlackNasCo> ok
+[04:42:12] [Async Chat Thread - #19/INFO]: [Not Secure] <BlackNasCo> di tengah laut?
+[04:42:18] [Async Chat Thread - #19/INFO]: [Not Secure] <anotherMIsa> iya
+[04:42:31] [Async Chat Thread - #20/INFO]: [Not Secure] <BlackNasCo> gw kira itu pulau regy njir
+[04:49:29] [Async Chat Thread - #21/INFO]: [Not Secure] <anotherMIsa> unbreaking cuma sampe 3 kan ya
+[04:49:38] [Async Chat Thread - #21/INFO]: [Not Secure] <BlackNasCo> uhhh lupa
+[04:49:41] [Async Chat Thread - #21/INFO]: [Not Secure] <Gyhh_> iyes
+[04:50:27] [Async Chat Thread - #22/INFO]: [Not Secure] <BlackNasCo> panah invinity gk bisa sama mending?
+[04:50:36] [Async Chat Thread - #22/INFO]: [Not Secure] <Gyhh_> gabisa
+[04:50:40] [Async Chat Thread - #22/INFO]: [Not Secure] <BlackNasCo> asu
+[04:55:10] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[04:55:10] [Server thread/INFO]: Gyhh_ left the game
+[04:55:12] [User Authenticator #25/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[04:55:12] [Server thread/INFO]: Gyhh_ joined the game
+[04:55:12] [Server thread/INFO]: Gyhh_[/36.74.224.208:62628] logged in with entity id 176624 at ([world]1909.2309994777738, 88.0, -1905.8797554540465)
+[04:55:17] [Craft Scheduler Thread - 8285 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.74.224.208
+[05:01:48] [Async Chat Thread - #23/INFO]: [Not Secure] <anotherMIsa> Mending 10E
+[05:01:53] [Async Chat Thread - #23/INFO]: [Not Secure] <BlackNasCo> gg
+[05:05:30] [Async Chat Thread - #25/INFO]: [Not Secure] <BlackNasCo> ada unbreaking gk sa?
+[05:05:37] [Async Chat Thread - #25/INFO]: [Not Secure] <BlackNasCo> kalau ada berapa diamond?
+[05:05:39] [Async Chat Thread - #25/INFO]: [Not Secure] <anotherMIsa> hanya nemu Unbreaking 2 14E
+[05:05:46] [Async Chat Thread - #25/INFO]: [Not Secure] <BlackNasCo> hmmm
+[05:08:49] [Async Chat Thread - #27/INFO]: [Not Secure] <anotherMIsa> aku nyari looting dari tadi malah dapetnya mending 2 kali wkwk
+[05:09:07] [Async Chat Thread - #28/INFO]: [Not Secure] <BlackNasCo> pas gk dicari malah muncul si mendingnya wkwkkw
+[05:10:19] [Async Chat Thread - #29/INFO]: [Not Secure] <BlackNasCo> itu yg depan pintu apaan?
+[05:10:23] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> rul ada emerald gak :v
+[05:10:33] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> mending lama
+[05:10:35] [Async Chat Thread - #30/INFO]: [Not Secure] <BlackNasCo> nope
+[05:10:52] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> ah ini ada sharpness 4 murah, tapi aku gak ada emerald buat ngelock ya
+[05:11:13] [Async Chat Thread - #29/INFO]: [Not Secure] <BlackNasCo> kita kyk nya butuh villager yg make brew buat nyari eme
+[05:11:23] [Async Chat Thread - #30/INFO]: [Not Secure] <anotherMIsa> beli apa dia
+[05:11:33] [Async Chat Thread - #29/INFO]: [Not Secure] <BlackNasCo> daging zombie
+[05:11:39] [Async Chat Thread - #29/INFO]: [Not Secure] <anotherMIsa> Ooo
+[05:14:28] [User Authenticator #26/INFO]: Disconnecting anotherMisa (/83.104.242.116:63186): You should join using username anotherMIsa, not anotherMisa.
+[05:14:28] [User Authenticator #26/INFO]: UUID of player anotherMisa is 4caeee1c-7366-39ef-b01c-a80812527bd4
+[05:14:28] [Server thread/INFO]: anotherMisa (/83.104.242.116:63186) lost connection: You should join using username anotherMIsa, not anotherMisa.
+[05:14:41] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[05:14:41] [Server thread/INFO]: Gyhh_ left the game
+[05:14:43] [User Authenticator #26/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[05:14:44] [Server thread/INFO]: Gyhh_ joined the game
+[05:14:44] [Server thread/INFO]: Gyhh_[/36.74.224.208:62817] logged in with entity id 190367 at ([world]55.19647289039481, 107.0, -1901.033543435236)
+[05:14:49] [Craft Scheduler Thread - 8388 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.74.224.208
+[05:17:12] [Async Chat Thread - #31/INFO]: [Not Secure] <BlackNasCo> sa cart dmn?
+[05:18:03] [Async Chat Thread - #31/INFO]: [Not Secure] <BlackNasCo> sa
+[05:18:34] [Async Chat Thread - #31/INFO]: [Not Secure] <BlackNasCo> sa
+[05:19:09] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[05:19:09] [Server thread/INFO]: Gyhh_ left the game
+[05:19:25] [User Authenticator #27/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[05:19:25] [Server thread/INFO]: Gyhh_ joined the game
+[05:19:25] [Server thread/INFO]: Gyhh_[/36.74.224.208:3673] logged in with entity id 192426 at ([world]61.553661567136096, 107.0, -1901.238113740576)
+[05:19:34] [Craft Scheduler Thread - 8409 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.74.224.208
+[05:19:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Gyhh_> ganti passwrod apa sa kemarin
+[05:19:44] [Async Chat Thread - #33/INFO]: [Not Secure] <anotherMIsa> changepassword
+[05:19:52] [Server thread/INFO]: Gyhh_ issued server command: /changepassword
+[05:20:00] [Craft Scheduler Thread - 8412 - AuthMe/INFO]: [AuthMe] Gyhh_ changed his password
+[05:20:31] [Async Chat Thread - #34/INFO]: [Not Secure] <BlackNasCo> ada yg mau di lock gk sa?
+[05:20:47] [Async Chat Thread - #34/INFO]: [Not Secure] <anotherMIsa> udah terlock semua sih
+[05:20:51] [Async Chat Thread - #34/INFO]: [Not Secure] <BlackNasCo> ok aman
+[05:21:01] [Async Chat Thread - #33/INFO]: [Not Secure] <anotherMIsa> bakal bikin slot villager lagi gak
+[05:21:09] [Async Chat Thread - #33/INFO]: [Not Secure] <BlackNasCo> bikin
+[05:21:13] [Async Chat Thread - #33/INFO]: [Not Secure] <anotherMIsa> oke
+[05:21:39] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[05:21:39] [Server thread/INFO]: Gyhh_ left the game
+[05:21:45] [Async Chat Thread - #33/INFO]: [Not Secure] <BlackNasCo> gw mau bikin tools yg bagus dulu biar enak bikin2nya
+[05:28:56] [Async Chat Thread - #35/INFO]: [Not Secure] <anotherMIsa> oke
+[05:47:10] [Server thread/INFO]: BlackNasCo has made the advancement [Take Aim]
