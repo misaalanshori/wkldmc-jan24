@@ -436,3 +436,26 @@
 [17:05:51] [Server thread/INFO]: MrLION7 has completed the challenge [Cover Me in Debris]
 [17:13:51] [Server thread/INFO]: _RH_ lost connection: Disconnected
 [17:13:51] [Server thread/INFO]: _RH_ left the game
+[18:11:35] [Async Chat Thread - #98/INFO]: [Not Secure] <MrLION7> -128 89 -231
+[18:12:45] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[18:12:45] [Server thread/INFO]: MrLION7 left the game
+[18:13:16] [Server thread/INFO]: Lordmax issued server command: /trigger ch_help
+[18:13:16] [Server thread/INFO]: [Lordmax: Triggered [show coordinates hud config]]
+[18:13:29] [Async Chat Thread - #100/INFO]: [Not Secure] <Lordmax> 1
+[18:13:34] [Server thread/INFO]: Lordmax issued server command: /trigger ch_toggle
+[18:13:34] [Server thread/INFO]: [Lordmax: Triggered [toggle coordinates hud]]
+[18:15:21] [Server thread/INFO]: anotherMIsa lost connection: Timed out
+[18:15:21] [Server thread/INFO]: anotherMIsa left the game
+[19:19:02] [Server thread/INFO]: Lordmax has completed the challenge [Cover Me in Debris]
+[20:33:20] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[20:33:20] [Server thread/INFO]: Lordmax left the game
+[22:42:51] [User Authenticator #41/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[22:42:51] [Server thread/INFO]: anotherMIsa joined the game
+[22:42:51] [Server thread/INFO]: anotherMIsa[/125.164.19.121:22193] logged in with entity id 559418 at ([world]2.0000057300120475, 117.0, -144.04171248747835)
+[22:42:57] [Craft Scheduler Thread - 13905 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.121
+[22:47:15] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[22:47:15] [Server thread/INFO]: anotherMIsa left the game
+[23:37:10] [User Authenticator #42/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[23:37:10] [Server thread/INFO]: anotherMIsa joined the game
+[23:37:10] [Server thread/INFO]: anotherMIsa[/125.164.23.28:5808] logged in with entity id 560537 at ([world]21.68239999689121, 119.0, -156.10231262237002)
+[23:37:17] [Craft Scheduler Thread - 14207 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.28
