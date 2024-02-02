@@ -152,3 +152,16 @@
 [11:59:09] [Craft Scheduler Thread - 18232 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
 [11:59:26] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [11:59:26] [Server thread/INFO]: anotherMIsa left the game
+[12:26:03] [User Authenticator #61/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:26:03] [Server thread/INFO]: anotherMIsa joined the game
+[12:26:03] [Server thread/INFO]: anotherMIsa[/125.164.19.121:9612] logged in with entity id 723752 at ([world]-2.784139220560873, 113.0, -137.58660122267153)
+[12:26:09] [Craft Scheduler Thread - 18388 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.121
+[12:56:15] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:56:15] [Server thread/INFO]: anotherMIsa left the game
+[15:25:57] [User Authenticator #62/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:25:57] [Server thread/INFO]: MrLION7 joined the game
+[15:25:57] [Server thread/INFO]: MrLION7[/182.253.54.108:2019] logged in with entity id 730841 at ([world]-267.20257475391105, 10.5625, -102.40739441584903)
+[15:26:16] [Craft Scheduler Thread - 19422 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
+[16:16:01] [Server thread/INFO]: MrLION7 has made the advancement [Glow and Behold!]
+[16:21:24] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[16:21:24] [Server thread/INFO]: MrLION7 left the game
