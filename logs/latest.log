@@ -268,3 +268,69 @@
 [11:47:39] [Server thread/INFO]: ARF1407[/36.72.5.79:64924] logged in with entity id 1016741 at ([world]-179.6479239259457, 111.0, -201.69999998807907)
 [11:47:47] [Craft Scheduler Thread - 25386 - AuthMe/INFO]: [AuthMe] ARF1407 logged in 36.72.5.79
 [11:56:02] [Async Chat Thread - #168/INFO]: [Not Secure] <anotherMIsa> 12 +3
+[12:02:50] [Async Chat Thread - #170/INFO]: [Not Secure] <anotherMIsa> 12 +36
+[12:03:05] [Server thread/WARN]: Lordmax moved wrongly!
+[12:03:59] [Server thread/INFO]: ARF1407 has made the advancement [Suit Up]
+[12:06:50] [Server thread/WARN]: ARF1407 moved wrongly!
+[12:26:00] [Server thread/INFO]: ARF1407 lost connection: Disconnected
+[12:26:00] [Server thread/INFO]: ARF1407 left the game
+[12:34:50] [Async Chat Thread - #172/INFO]: [Not Secure] <anotherMIsa> e +28
+[12:41:28] [Server thread/INFO]: Lordmax has reached the goal [Hired Help]
+[12:42:47] [Server thread/INFO]: MrLION7 has reached the goal [Hired Help]
+[12:43:34] [Async Chat Thread - #174/INFO]: [Not Secure] <anotherMIsa> f +5
+[12:49:14] [Async Chat Thread - #176/INFO]: [Not Secure] <anotherMIsa> f +1c
+[12:50:40] [Server thread/INFO]: MrLION7 has made the advancement [Withering Heights]
+[12:50:40] [Server thread/INFO]: Lordmax has made the advancement [Withering Heights]
+[12:59:48] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:59:48] [Server thread/INFO]: anotherMIsa left the game
+[13:00:50] [User Authenticator #85/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[13:00:50] [Server thread/INFO]: anotherMIsa joined the game
+[13:00:50] [Server thread/INFO]: anotherMIsa[/125.164.22.14:27647] logged in with entity id 1048634 at ([world_nether]-0.699999988079071, 32.0, 60.30000001192093)
+[13:00:53] [Craft Scheduler Thread - 25679 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.14
+[13:03:36] [Server thread/INFO]: Lordmax has reached the goal [Beaconator]
+[13:03:36] [Server thread/INFO]: Lordmax has made the advancement [Bring Home the Beacon]
+[13:03:36] [Server thread/INFO]: MrLION7 has reached the goal [Beaconator]
+[13:03:36] [Server thread/INFO]: MrLION7 has made the advancement [Bring Home the Beacon]
+[13:04:30] [Server thread/INFO]: anotherMIsa has made the advancement [Hidden in the Depths]
+[13:08:43] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[13:08:43] [Server thread/INFO]: MrLION7 left the game
+[13:24:58] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:24:58] [Server thread/INFO]: anotherMIsa left the game
+[13:25:01] [User Authenticator #86/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[13:25:01] [Server thread/INFO]: anotherMIsa joined the game
+[13:25:01] [Server thread/INFO]: anotherMIsa[/125.164.16.39:27376] logged in with entity id 1064729 at ([world_nether]202.17591718238108, 14.0, -246.69999998807907)
+[13:25:06] [Craft Scheduler Thread - 25772 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
+[13:32:20] [Async Chat Thread - #178/INFO]: [Not Secure] <anotherMIsa> 11 +0
+[13:37:34] [Async Chat Thread - #180/INFO]: [Not Secure] <anotherMIsa> 11 +4
+[13:37:36] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:37:36] [Server thread/INFO]: anotherMIsa left the game
+[13:56:53] [User Authenticator #87/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[13:56:53] [Server thread/INFO]: MrLION7 joined the game
+[13:56:53] [Server thread/INFO]: MrLION7[/182.253.54.108:27720] logged in with entity id 1072292 at ([world]-107.78272930980752, 45.0, -200.69999998807907)
+[13:57:02] [Craft Scheduler Thread - 25922 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
+[14:19:44] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[14:19:44] [Server thread/INFO]: MrLION7 left the game
+[14:23:06] [User Authenticator #88/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[14:23:07] [Server thread/INFO]: MrLION7 joined the game
+[14:23:07] [Server thread/INFO]: MrLION7[/182.253.54.108:41502] logged in with entity id 1087126 at ([world]558.4875000119209, 40.0, 596.0455360202245)
+[14:23:18] [Craft Scheduler Thread - 26016 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
+[14:48:35] [User Authenticator #89/INFO]: UUID of player _RH_ is 5de34a1f-c60a-3c87-b3e2-a1f7eea4e505
+[14:48:35] [Server thread/INFO]: _RH_ joined the game
+[14:48:35] [Server thread/INFO]: _RH_[/139.195.210.59:56897] logged in with entity id 1098267 at ([world]-69.22969629217377, 110.0, -301.63576334137446)
+[14:48:57] [Craft Scheduler Thread - 26113 - AuthMe/INFO]: [AuthMe] _RH_ logged in 139.195.210.59
+[16:13:03] [Server thread/INFO]: Villager EntityVillager['Villager'/96902, uuid='da255943-f80b-4ca2-be5e-b60b89e69c6a', l='ServerLevel[world]', x=-104.81, y=41.06, z=-181.50, cpos=[-7, -12], tl=5225974, v=true] died, message: 'Villager was slain by Zombie'
+[16:32:10] [Server thread/INFO]: _RH_ lost connection: Disconnected
+[16:32:10] [Server thread/INFO]: _RH_ left the game
+[16:37:40] [User Authenticator #90/INFO]: UUID of player _RH_ is 5de34a1f-c60a-3c87-b3e2-a1f7eea4e505
+[16:37:40] [Server thread/INFO]: _RH_ joined the game
+[16:37:40] [Server thread/INFO]: _RH_[/139.195.210.59:65127] logged in with entity id 1138574 at ([world_the_end]281.51433836002553, 57.0, 29.68911382149156)
+[16:37:48] [Craft Scheduler Thread - 26544 - AuthMe/INFO]: [AuthMe] _RH_ logged in 139.195.210.59
+[16:47:20] [Server thread/INFO]: Lordmax has made the advancement [Eye Spy]
+[16:47:27] [Server thread/INFO]: Lordmax has made the advancement [The End?]
+[16:50:37] [Server thread/INFO]: _RH_ lost connection: Disconnected
+[16:50:37] [Server thread/INFO]: _RH_ left the game
+[17:47:28] [Async Chat Thread - #182/INFO]: [Not Secure] <Lordmax> feather falling 4 mau gk?
+[17:47:36] [Async Chat Thread - #183/INFO]: [Not Secure] <MrLION7> ggood
+[17:48:05] [Async Chat Thread - #183/INFO]: [Not Secure] <Lordmax> ini ada efficiency 4, 35 eme
+[17:50:43] [Async Chat Thread - #184/INFO]: [Not Secure] <MrLION7> no
+[17:51:07] [Async Chat Thread - #185/INFO]: [Not Secure] <Lordmax> ntar dijadiin zombienya pas dh masuka aja
