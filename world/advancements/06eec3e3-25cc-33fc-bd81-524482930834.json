@@ -812,6 +812,7 @@
       "minecraft:pillager": "2024-01-25 17:05:57 +0000",
       "minecraft:blaze": "2024-02-02 09:46:19 +0000",
       "minecraft:skeleton": "2024-01-25 17:07:06 +0000",
+      "minecraft:zombified_piglin": "2024-02-03 09:56:37 +0000",
       "minecraft:wither_skeleton": "2024-02-02 10:00:08 +0000",
       "minecraft:ravager": "2024-01-30 16:37:44 +0000",
       "minecraft:ghast": "2024-01-30 05:24:27 +0000",
@@ -3473,12 +3474,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-02-03 04:55:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-02-03 04:30:29 +0000"
@@ -3488,6 +3483,30 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-02-03 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-02-03 04:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-02-03 09:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-02-03 09:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2024-02-03 10:52:03 +0000"
     },
     "done": true
   },
