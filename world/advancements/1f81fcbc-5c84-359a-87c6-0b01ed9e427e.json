@@ -985,15 +985,17 @@
       "minecraft:pillager": "2024-01-29 11:23:06 +0000",
       "minecraft:blaze": "2024-02-02 01:58:02 +0000",
       "minecraft:skeleton": "2024-01-27 09:29:49 +0000",
-      "minecraft:enderman": "2024-01-30 09:56:42 +0000",
       "minecraft:witch": "2024-01-30 14:51:39 +0000",
-      "minecraft:spider": "2024-01-27 08:06:08 +0000",
       "minecraft:wither_skeleton": "2024-02-02 01:59:30 +0000",
+      "minecraft:ravager": "2024-02-03 01:37:18 +0000",
+      "minecraft:shulker": "2024-01-30 10:18:39 +0000",
+      "minecraft:vindicator": "2024-02-03 01:35:51 +0000",
+      "minecraft:enderman": "2024-01-30 09:56:42 +0000",
+      "minecraft:spider": "2024-01-27 08:06:08 +0000",
       "minecraft:zombie": "2024-01-27 07:29:31 +0000",
       "minecraft:creeper": "2024-01-30 08:45:12 +0000",
       "minecraft:zombie_villager": "2024-01-27 07:34:50 +0000",
-      "minecraft:slime": "2024-01-30 03:37:37 +0000",
-      "minecraft:shulker": "2024-01-30 10:18:39 +0000"
+      "minecraft:slime": "2024-01-30 03:37:37 +0000"
     },
     "done": false
   },
@@ -3410,6 +3412,66 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-02-02 10:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-02-03 01:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-02-03 01:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-02-03 01:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-02-03 01:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-03 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-02-03 04:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-02-03 03:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-03 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-03 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-02-03 04:12:10 +0000"
     },
     "done": true
   },

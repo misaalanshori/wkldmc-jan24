@@ -1,171 +1,75 @@
-[00:04:05] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:04:05] [Server thread/INFO]: anotherMIsa left the game
-[00:51:36] [User Authenticator #43/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:51:36] [Server thread/INFO]: anotherMIsa joined the game
-[00:51:36] [Server thread/INFO]: anotherMIsa[/125.164.22.14:11148] logged in with entity id 564111 at ([world]1.9398347000676661, 117.0, -143.99357650005024)
-[00:51:40] [Craft Scheduler Thread - 14592 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.14
-[01:15:36] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[01:15:36] [Server thread/INFO]: anotherMIsa left the game
-[01:17:39] [User Authenticator #44/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
-[01:17:39] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:50016): You are not whitelisted on this server!
-[01:17:39] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:50016) lost connection: You are not whitelisted on this server!
-[01:32:07] [User Authenticator #45/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[01:32:07] [Server thread/INFO]: anotherMIsa joined the game
-[01:32:07] [Server thread/INFO]: anotherMIsa[/125.164.21.15:26991] logged in with entity id 567824 at ([world]-268.48750001192093, 11.0, -104.41595530889165)
-[01:32:11] [Craft Scheduler Thread - 14816 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.15
-[01:51:25] [Server thread/INFO]: Seed: [2442325376837601153]
-[01:57:35] [Server thread/INFO]: anotherMIsa has made the advancement [A Terrible Fortress]
-[01:59:00] [Server thread/INFO]: anotherMIsa has made the advancement [Into Fire]
-[02:03:18] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:03:18] [Server thread/INFO]: anotherMIsa left the game
-[04:08:56] [User Authenticator #46/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[04:08:56] [Server thread/INFO]: MrLION7 joined the game
-[04:08:56] [Server thread/INFO]: MrLION7[/182.253.54.108:25383] logged in with entity id 573959 at ([world]-134.49133523448796, 95.0, -231.79350648407444)
-[04:09:04] [Craft Scheduler Thread - 15706 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
-[04:12:10] [User Authenticator #47/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:12:10] [Server thread/INFO]: anotherMIsa joined the game
-[04:12:10] [Server thread/INFO]: anotherMIsa[/125.164.21.15:11162] logged in with entity id 574487 at ([world]15.737284140388644, 108.0, -129.37534153650714)
-[04:12:13] [Craft Scheduler Thread - 15720 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.15
-[04:16:02] [Async Chat Thread - #102/INFO]: [Not Secure] <anotherMIsa> liyan jualan iron gak
-[04:16:07] [Async Chat Thread - #102/INFO]: [Not Secure] <MrLION7> ada
-[04:16:10] [Async Chat Thread - #102/INFO]: [Not Secure] <anotherMIsa> berapaan
-[04:16:21] [Async Chat Thread - #102/INFO]: [Not Secure] <MrLION7> 1 d = 2 stack
-[04:16:36] [Async Chat Thread - #102/INFO]: [Not Secure] <anotherMIsa> beli liyan 12 stack
-[04:17:06] [Async Chat Thread - #102/INFO]: [Not Secure] <MrLION7> ok come here in the shop
-[04:17:32] [Async Chat Thread - #103/INFO]: [Not Secure] <anotherMIsa> 6d ya
-[04:17:55] [Async Chat Thread - #103/INFO]: [Not Secure] <anotherMIsa> ok tks
-[04:18:00] [Async Chat Thread - #103/INFO]: [Not Secure] <MrLION7> thx too
-[04:28:03] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[04:28:03] [Server thread/INFO]: anotherMIsa left the game
-[04:39:22] [Server thread/WARN]: MrLION7 moved wrongly!
-[04:39:55] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[04:39:55] [Server thread/INFO]: MrLION7 left the game
-[06:04:56] [User Authenticator #48/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[06:04:56] [Server thread/INFO]: anotherMIsa joined the game
-[06:04:56] [Server thread/INFO]: anotherMIsa[/125.164.20.202:13506] logged in with entity id 580956 at ([world]-29.23750001192093, 69.0, -158.91988299021827)
-[06:05:02] [Craft Scheduler Thread - 16349 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.202
-[06:33:16] [User Authenticator #49/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
-[06:33:16] [Server thread/INFO]: Lordmax joined the game
-[06:33:16] [Server thread/INFO]: Lordmax[/36.69.108.116:51061] logged in with entity id 590008 at ([world]-258.8551031273735, 37.0, -213.75444980920216)
-[06:33:27] [Craft Scheduler Thread - 16513 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.108.116
-[06:45:11] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[06:45:11] [Server thread/INFO]: anotherMIsa left the game
-[07:31:51] [User Authenticator #50/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:31:51] [Server thread/INFO]: anotherMIsa joined the game
-[07:31:51] [Server thread/INFO]: anotherMIsa[/125.164.17.218:11338] logged in with entity id 602275 at ([world]5.4092708198862205, 117.0, -146.09701868355444)
-[07:31:54] [Craft Scheduler Thread - 16839 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.218
-[07:39:13] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:39:13] [Server thread/INFO]: anotherMIsa left the game
-[07:41:40] [User Authenticator #51/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:41:40] [Server thread/INFO]: anotherMIsa joined the game
-[07:41:40] [Server thread/INFO]: anotherMIsa[/125.164.23.28:21903] logged in with entity id 607244 at ([world]252.9507601476505, 7.5, -1859.7894610303485)
-[07:41:44] [Craft Scheduler Thread - 16876 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.28
-[07:49:23] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:49:23] [Server thread/INFO]: anotherMIsa left the game
-[07:50:32] [User Authenticator #52/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:50:32] [Server thread/INFO]: anotherMIsa joined the game
-[07:50:32] [Server thread/INFO]: anotherMIsa[/125.164.16.39:23234] logged in with entity id 610519 at ([world_the_end]-163.14627444811714, 108.0, -1252.9447136938213)
-[07:50:35] [Craft Scheduler Thread - 16922 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
-[07:57:36] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:57:36] [Server thread/INFO]: anotherMIsa left the game
-[07:58:29] [User Authenticator #53/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:58:29] [Server thread/INFO]: anotherMIsa joined the game
-[07:58:29] [Server thread/INFO]: anotherMIsa[/125.164.18.85:31854] logged in with entity id 613228 at ([world_the_end]-900.3000000119209, 133.0, -1589.300000011921)
-[07:58:32] [Craft Scheduler Thread - 16961 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.85
-[08:00:53] [User Authenticator #54/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[08:00:54] [Server thread/INFO]: MrLION7 joined the game
-[08:00:54] [Server thread/INFO]: MrLION7[/182.253.54.108:2007] logged in with entity id 614743 at ([world]-89.02907605101427, 1.0, -646.5877339954907)
-[08:01:01] [Craft Scheduler Thread - 16974 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
-[08:01:13] [Async Chat Thread - #104/INFO]: [Not Secure] <MrLION7> test
-[08:04:40] [User Authenticator #55/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[08:04:42] [Server thread/INFO]: Gyhh_ joined the game
-[08:04:42] [Server thread/INFO]: Gyhh_[/180.254.132.106:5415] logged in with entity id 616693 at ([world]-103.69840536220042, 117.0, -275.5792716760948)
-[08:04:48] [Craft Scheduler Thread - 16995 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.132.106
-[08:06:33] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:06:33] [Server thread/INFO]: anotherMIsa left the game
-[08:06:37] [Async Chat Thread - #106/INFO]: [Not Secure] <MrLION7> max
-[08:07:34] [User Authenticator #56/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:07:34] [Server thread/INFO]: anotherMIsa joined the game
-[08:07:34] [Server thread/INFO]: anotherMIsa[/125.164.22.14:12128] logged in with entity id 617872 at ([world_the_end]-224.68336103587944, 147.0, -1816.6782070929687)
-[08:07:37] [Craft Scheduler Thread - 17007 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.14
-[08:07:46] [Server thread/INFO]: Gyhh_ has made the advancement [Hot Stuff]
-[08:12:28] [Async Chat Thread - #108/INFO]: [Not Secure] <Gyhh_> cara biar auto click gimana dah
-[08:12:29] [Async Chat Thread - #108/INFO]: [Not Secure] <Gyhh_> buat afk
-[08:45:40] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:45:40] [Server thread/INFO]: anotherMIsa left the game
-[09:12:09] [User Authenticator #57/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
-[09:12:10] [Server thread/INFO]: Ame4me joined the game
-[09:12:10] [Server thread/INFO]: Ame4me[/103.130.18.1:30368] logged in with entity id 660591 at ([world]432.0142449285455, 96.0, -305.61548251252657)
-[09:12:18] [Craft Scheduler Thread - 17354 - AuthMe/INFO]: [AuthMe] Ame4me logged in 103.130.18.1
-[09:12:45] [User Authenticator #57/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:12:45] [Server thread/INFO]: anotherMIsa joined the game
-[09:12:45] [Server thread/INFO]: anotherMIsa[/125.164.16.39:19830] logged in with entity id 661127 at ([world]0.4603293364996536, 113.0, -134.89164537456787)
-[09:12:48] [Craft Scheduler Thread - 17357 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
-[09:17:13] [Server thread/INFO]: Lordmax has made the advancement [A Throwaway Joke]
-[09:28:56] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[09:28:56] [Server thread/INFO]: Gyhh_ left the game
-[09:31:47] [User Authenticator #58/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[09:31:49] [Server thread/INFO]: Gyhh_ joined the game
-[09:31:49] [Server thread/INFO]: Gyhh_[/180.254.132.106:59752] logged in with entity id 670114 at ([world]-211.14884476102492, 141.0, -209.14485721740107)
-[09:31:55] [Craft Scheduler Thread - 17446 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.132.106
-[09:31:56] [Async Chat Thread - #110/INFO]: [Not Secure] <Lordmax> reg fotress dmn
-[09:32:05] [Async Chat Thread - #110/INFO]: [Not Secure] <Lordmax> mether
-[09:32:06] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> dari portal\
-[09:32:12] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> lurus ke arah bastion
-[09:32:17] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> ada jempatan 1 block
-[09:32:24] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> yang ke kiri itu fortress
-[09:32:29] [Async Chat Thread - #111/INFO]: [Not Secure] <Lordmax> okh
-[09:32:38] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> ikutin jempatan itu, terus udah lewat jembatan, belok kanan
-[09:32:50] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> serong dikit ke arah barat laut
-[09:32:52] [Async Chat Thread - #110/INFO]: [Not Secure] <Gyhh_> sampai
-[09:33:42] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> ada yang jual redstone?
-[09:33:49] [Async Chat Thread - #111/INFO]: [Not Secure] <Gyhh_> gw ada ambil aja
-[09:33:56] [Async Chat Thread - #111/INFO]: [Not Secure] <anotherMIsa> oke
-[09:34:13] [Async Chat Thread - #110/INFO]: [Not Secure] <anotherMIsa> oke tangkyuu
-[09:35:50] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> why
-[09:36:21] [Async Chat Thread - #112/INFO]: [Not Secure] <anotherMIsa> tf are you doing
-[09:41:54] [Server thread/INFO]: Lordmax has made the advancement [A Terrible Fortress]
-[09:42:04] [Server thread/INFO]: MrLION7 has made the advancement [A Terrible Fortress]
-[09:44:24] [Server thread/INFO]: Lordmax has made the advancement [Into Fire]
-[09:56:25] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:56:25] [Server thread/INFO]: anotherMIsa left the game
-[09:56:29] [User Authenticator #59/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:56:30] [Server thread/INFO]: anotherMIsa joined the game
-[09:56:30] [Server thread/INFO]: anotherMIsa[/125.164.17.218:28108] logged in with entity id 691959 at ([world]-25.501399771930203, 69.5, -160.91002621736027)
-[09:56:33] [Craft Scheduler Thread - 17565 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.218
-[10:01:27] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[10:01:27] [Server thread/INFO]: Gyhh_ left the game
-[10:04:19] [Server thread/INFO]: Ame4me has made the advancement [Tactical Fishing]
-[10:21:21] [Server thread/INFO]: Ame4me lost connection: Disconnected
-[10:21:21] [Server thread/INFO]: Ame4me left the game
-[10:29:29] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[10:29:29] [Server thread/INFO]: anotherMIsa left the game
-[10:58:09] [Server thread/INFO]: Lordmax has made the advancement [Local Brewery]
-[11:08:45] [Server thread/WARN]: Lordmax moved wrongly!
-[11:28:34] [Server thread/INFO]: Lordmax lost connection: Disconnected
-[11:28:34] [Server thread/INFO]: Lordmax left the game
-[11:44:48] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[11:44:48] [Server thread/INFO]: MrLION7 left the game
-[11:59:05] [User Authenticator #60/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[11:59:05] [Server thread/INFO]: anotherMIsa joined the game
-[11:59:05] [Server thread/INFO]: anotherMIsa[/125.164.16.39:27926] logged in with entity id 723475 at ([world]-2.0148922761854022, 109.0, -129.53579152944982)
-[11:59:09] [Craft Scheduler Thread - 18232 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
-[11:59:26] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[11:59:26] [Server thread/INFO]: anotherMIsa left the game
-[12:26:03] [User Authenticator #61/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:26:03] [Server thread/INFO]: anotherMIsa joined the game
-[12:26:03] [Server thread/INFO]: anotherMIsa[/125.164.19.121:9612] logged in with entity id 723752 at ([world]-2.784139220560873, 113.0, -137.58660122267153)
-[12:26:09] [Craft Scheduler Thread - 18388 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.121
-[12:56:15] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[12:56:15] [Server thread/INFO]: anotherMIsa left the game
-[15:25:57] [User Authenticator #62/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[15:25:57] [Server thread/INFO]: MrLION7 joined the game
-[15:25:57] [Server thread/INFO]: MrLION7[/182.253.54.108:2019] logged in with entity id 730841 at ([world]-267.20257475391105, 10.5625, -102.40739441584903)
-[15:26:16] [Craft Scheduler Thread - 19422 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
-[16:16:01] [Server thread/INFO]: MrLION7 has made the advancement [Glow and Behold!]
-[16:21:24] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[16:21:24] [Server thread/INFO]: MrLION7 left the game
-[23:44:38] [User Authenticator #63/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[23:44:38] [Server thread/INFO]: anotherMIsa joined the game
-[23:44:38] [Server thread/INFO]: anotherMIsa[/125.164.17.218:3216] logged in with entity id 741100 at ([world]-23.13200927104665, 75.0, -168.086196427017)
-[23:44:42] [Craft Scheduler Thread - 22305 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.218
+[00:04:20] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:04:20] [Server thread/INFO]: anotherMIsa left the game
+[00:09:12] [User Authenticator #64/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[00:09:12] [Server thread/INFO]: anotherMIsa joined the game
+[00:09:12] [Server thread/INFO]: anotherMIsa[/125.164.16.39:10018] logged in with entity id 744011 at ([world]24.69999998807907, 107.0, -128.10972230866523)
+[00:09:15] [Craft Scheduler Thread - 22437 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.39
+[01:32:17] [Server thread/INFO]: anotherMIsa has made the advancement [Voluntary Exile]
+[02:02:25] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[02:02:25] [Server thread/INFO]: anotherMIsa left the game
+[02:36:06] [User Authenticator #65/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[02:36:07] [Server thread/INFO]: Gyhh_ joined the game
+[02:36:07] [Server thread/INFO]: Gyhh_[/180.254.132.106:7371] logged in with entity id 762836 at ([world]-1827.2350212082727, 91.0, -1917.5661309999684)
+[02:36:14] [Craft Scheduler Thread - 23265 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.132.106
+[03:35:47] [Server thread/WARN]: Gyhh_ moved too quickly! 9.849286766969506,0.0,1.9720928504858932
+[03:38:36] [User Authenticator #66/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[03:38:36] [Server thread/INFO]: anotherMIsa joined the game
+[03:38:36] [Server thread/INFO]: anotherMIsa[/125.164.23.28:9874] logged in with entity id 782067 at ([world]2.5, 113.0, -137.5)
+[03:38:42] [Craft Scheduler Thread - 23629 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.28
+[03:39:12] [Async Chat Thread - #114/INFO]: [Not Secure] <Gyhh_> man i almost lost in the netherite mine
+[03:40:01] [Async Chat Thread - #114/INFO]: [Not Secure] <anotherMIsa> wkwk aku belum mulai nyari netherite
+[03:43:38] [Server thread/INFO]: Gyhh_ has completed the challenge [Cover Me in Debris]
+[03:43:43] [Async Chat Thread - #116/INFO]: [Not Secure] <anotherMIsa> nicee
+[03:43:56] [Async Chat Thread - #116/INFO]: [Not Secure] <Gyhh_> mwehe
+[03:44:30] [Async Chat Thread - #116/INFO]: [Not Secure] <anotherMIsa> netherite ada di paling bawah todo listku jadi masih lama kayaknya wkwk
+[03:44:46] [Async Chat Thread - #116/INFO]: [Not Secure] <Gyhh_> megnhindari kematian lagi :v
+[03:44:50] [Async Chat Thread - #116/INFO]: [Not Secure] <anotherMIsa> wkwk
+[03:45:17] [Async Chat Thread - #116/INFO]: [Not Secure] <anotherMIsa> btw punya redstone lagi gak? :v
+[03:45:21] [Async Chat Thread - #117/INFO]: [Not Secure] <Gyhh_> banyak
+[03:45:25] [Async Chat Thread - #117/INFO]: [Not Secure] <anotherMIsa> minta lagi wkwk
+[03:45:27] [Async Chat Thread - #117/INFO]: [Not Secure] <Gyhh_> yang di chest atas bed
+[03:45:31] [Async Chat Thread - #117/INFO]: [Not Secure] <anotherMIsa> oke
+[03:46:20] [Async Chat Thread - #117/INFO]: [Not Secure] <anotherMIsa> oke aku ambil 16 redstone block ya
+[04:08:13] [User Authenticator #67/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[04:08:13] [Server thread/INFO]: MrLION7 joined the game
+[04:08:13] [Server thread/INFO]: MrLION7[/182.253.54.108:33922] logged in with entity id 790405 at ([world]-133.44735645405046, 70.0, -192.69346085686382)
+[04:08:22] [Craft Scheduler Thread - 23786 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.108
+[04:12:10] [Server thread/INFO]: anotherMIsa has made the advancement [Sticky Situation]
+[04:16:13] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:26] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:27] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:27] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:27] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:36] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:36] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:37] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:37] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:38] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:39] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:39] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:39] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:40] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:40] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:23:40] [Server thread/WARN]: anotherMIsa moved wrongly!
+[04:36:07] [Server thread/WARN]: Gyhh_ was kicked due to keepalive timeout!
+[04:36:07] [Server thread/INFO]: Gyhh_ lost connection: Timed out
+[04:36:07] [Server thread/INFO]: Gyhh_ left the game
+[04:37:35] [User Authenticator #68/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[04:37:35] [Server thread/INFO]: Gyhh_ joined the game
+[04:37:35] [Server thread/INFO]: Gyhh_[/180.254.132.106:61910] logged in with entity id 800547 at ([world]-133.17098144769517, 75.0, -185.54221117886135)
+[04:37:43] [Craft Scheduler Thread - 23886 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.132.106
+[04:50:04] [User Authenticator #69/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[04:50:04] [Server thread/INFO]: Ame4me joined the game
+[04:50:04] [Server thread/INFO]: Ame4me[/103.130.18.1:13642] logged in with entity id 809671 at ([world]-144.5, 119.0, -272.5)
+[04:50:11] [Craft Scheduler Thread - 23926 - AuthMe/INFO]: [AuthMe] Ame4me logged in 103.130.18.1
+[04:58:07] [Server thread/INFO]: anotherMIsa fell from a high place
+[04:59:38] [User Authenticator #70/INFO]: UUID of player _RH_ is 5de34a1f-c60a-3c87-b3e2-a1f7eea4e505
+[04:59:39] [Server thread/INFO]: _RH_ joined the game
+[04:59:39] [Server thread/INFO]: _RH_[/139.195.210.59:60769] logged in with entity id 815538 at ([world]-68.9986024075594, 110.0, -301.1790585642288)
+[04:59:50] [Craft Scheduler Thread - 23958 - AuthMe/INFO]: [AuthMe] _RH_ logged in 139.195.210.59
+[05:04:45] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[05:04:45] [Server thread/INFO]: MrLION7 left the game
+[05:07:34] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[05:07:34] [Server thread/INFO]: Ame4me left the game
+[05:16:07] [Server thread/INFO]: _RH_ has made the advancement [Hidden in the Depths]
+[05:17:45] [Server thread/WARN]: Gyhh_ moved too quickly! 9.430783901740796,-2.57851693377134,15.154857525725674
