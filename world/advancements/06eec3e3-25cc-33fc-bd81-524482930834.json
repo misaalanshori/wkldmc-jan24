@@ -65,11 +65,15 @@
       "minecraft:dripstone_caves": "2024-01-25 17:23:22 +0000",
       "minecraft:old_growth_birch_forest": "2024-01-27 07:00:26 +0000",
       "minecraft:desert": "2024-01-29 17:41:12 +0000",
+      "minecraft:deep_frozen_ocean": "2024-02-04 16:31:48 +0000",
+      "minecraft:windswept_forest": "2024-02-04 16:55:06 +0000",
       "minecraft:ocean": "2024-01-30 06:16:12 +0000",
       "minecraft:jungle": "2024-02-03 14:07:02 +0000",
       "minecraft:cherry_grove": "2024-01-25 14:23:58 +0000",
       "minecraft:sunflower_plains": "2024-01-25 14:23:18 +0000",
+      "minecraft:swamp": "2024-02-04 16:44:08 +0000",
       "minecraft:birch_forest": "2024-01-27 06:58:36 +0000",
+      "minecraft:windswept_hills": "2024-02-04 16:43:17 +0000",
       "minecraft:plains": "2024-01-25 14:20:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-03 14:04:32 +0000"
     },
@@ -647,6 +651,7 @@
     "criteria": {
       "minecraft:cow": "2024-01-25 15:39:07 +0000",
       "minecraft:chicken": "2024-01-26 08:50:00 +0000",
+      "minecraft:turtle": "2024-02-04 16:04:03 +0000",
       "minecraft:sheep": "2024-01-29 16:56:04 +0000"
     },
     "done": false
@@ -819,25 +824,28 @@
       "minecraft:blaze": "2024-02-02 09:46:19 +0000",
       "minecraft:skeleton": "2024-01-25 17:07:06 +0000",
       "minecraft:elder_guardian": "2024-02-03 14:12:20 +0000",
-      "minecraft:zombified_piglin": "2024-02-03 09:56:37 +0000",
-      "minecraft:wither_skeleton": "2024-02-02 10:00:08 +0000",
       "minecraft:ravager": "2024-01-30 16:37:44 +0000",
       "minecraft:ghast": "2024-01-30 05:24:27 +0000",
       "minecraft:hoglin": "2024-01-26 09:05:15 +0000",
-      "minecraft:cave_spider": "2024-02-02 09:10:29 +0000",
-      "minecraft:piglin": "2024-01-26 10:02:32 +0000",
       "minecraft:guardian": "2024-02-03 14:11:19 +0000",
       "minecraft:vindicator": "2024-01-30 16:27:10 +0000",
-      "minecraft:enderman": "2024-01-26 08:46:21 +0000",
       "minecraft:magma_cube": "2024-01-26 10:14:21 +0000",
       "minecraft:spider": "2024-01-25 18:03:02 +0000",
       "minecraft:piglin_brute": "2024-01-26 10:06:24 +0000",
+      "minecraft:creeper": "2024-01-25 17:37:19 +0000",
+      "minecraft:evoker": "2024-01-30 16:39:15 +0000",
+      "minecraft:slime": "2024-02-04 17:07:54 +0000",
+      "minecraft:phantom": "2024-02-04 17:09:57 +0000",
+      "minecraft:zombified_piglin": "2024-02-03 09:56:37 +0000",
+      "minecraft:witch": "2024-02-04 17:14:35 +0000",
+      "minecraft:wither_skeleton": "2024-02-02 10:00:08 +0000",
+      "minecraft:cave_spider": "2024-02-02 09:10:29 +0000",
+      "minecraft:piglin": "2024-01-26 10:02:32 +0000",
+      "minecraft:enderman": "2024-01-26 08:46:21 +0000",
       "minecraft:vex": "2024-01-30 16:40:15 +0000",
       "minecraft:zombie": "2024-01-25 17:25:47 +0000",
-      "minecraft:creeper": "2024-01-25 17:37:19 +0000",
       "minecraft:drowned": "2024-01-25 18:03:19 +0000",
-      "minecraft:zombie_villager": "2024-02-03 16:20:01 +0000",
-      "minecraft:evoker": "2024-01-30 16:39:15 +0000"
+      "minecraft:zombie_villager": "2024-02-03 16:20:01 +0000"
     },
     "done": false
   },
@@ -3852,6 +3860,102 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-02-04 08:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-02-04 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-02-04 16:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-02-04 16:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-02-04 17:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-02-04 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-02-04 16:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-02-04 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-02-04 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-02-04 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-02-04 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-02-04 17:06:47 +0000"
     },
     "done": true
   },

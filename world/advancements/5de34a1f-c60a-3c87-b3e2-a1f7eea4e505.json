@@ -3114,5 +3114,17 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-02-04 12:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-02-04 12:09:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
