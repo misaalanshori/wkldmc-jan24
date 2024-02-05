@@ -546,3 +546,19 @@
 [17:01:43] [Server thread/WARN]: Horse (vehicle of MrLION7) moved wrongly! 1.0112272125010122
 [17:36:34] [Server thread/WARN]: Horse (vehicle of MrLION7) moved wrongly! 0.4977260667706105
 [17:43:22] [Server thread/WARN]: Horse (vehicle of MrLION7) moved wrongly! 0.40598553894864153
+[18:33:26] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[18:33:26] [Server thread/INFO]: Lordmax left the game
+[18:43:27] [User Authenticator #28/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[18:43:27] [Server thread/INFO]: Lordmax joined the game
+[18:43:27] [Server thread/INFO]: Lordmax[/36.69.108.116:56128] logged in with entity id 288390 at ([world]-83.84840150454188, 41.0, -168.33999332604768)
+[18:43:36] [Craft Scheduler Thread - 4236 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.108.116
+[18:48:00] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[18:48:00] [Server thread/INFO]: MrLION7 left the game
+[19:04:42] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[19:04:42] [Server thread/INFO]: Lordmax left the game
+[19:12:08] [User Authenticator #29/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[19:12:09] [Server thread/INFO]: Lordmax joined the game
+[19:12:09] [Server thread/INFO]: Lordmax[/36.69.108.116:56384] logged in with entity id 293674 at ([world]-106.37326756414393, 45.0, -162.45888477092973)
+[19:12:15] [Craft Scheduler Thread - 4381 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.108.116
+[21:26:48] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[21:26:48] [Server thread/INFO]: Lordmax left the game
