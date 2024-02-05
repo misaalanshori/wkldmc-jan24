@@ -90,3 +90,46 @@
 [11:54:51] [Server thread/INFO]: anotherMIsa joined the game
 [11:54:51] [Server thread/INFO]: anotherMIsa[/125.164.19.191:4695] logged in with entity id 479460 at ([world]-55.69999998807907, 75.0, -153.79536899767575)
 [11:54:57] [Craft Scheduler Thread - 9850 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
+[12:18:38] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:18:38] [Server thread/INFO]: anotherMIsa left the game
+[12:29:37] [User Authenticator #43/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:29:38] [Server thread/INFO]: anotherMIsa joined the game
+[12:29:38] [Server thread/INFO]: anotherMIsa[/125.164.19.191:33000] logged in with entity id 486852 at ([world]1.1498654679313125, 113.0, -137.15597978724304)
+[12:29:42] [Craft Scheduler Thread - 10033 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
+[12:37:33] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:37:33] [Server thread/INFO]: anotherMIsa left the game
+[12:40:35] [Server thread/INFO]: [WEB] MrLION7: gw join aga malaman nanti max
+[12:40:44] [Server thread/INFO]: [WEB] MrLION7: lagi aps ?
+[12:40:50] [Async Chat Thread - #79/INFO]: [Not Secure] <Lordmax> jir how
+[12:41:19] [Server thread/INFO]: [WEB] MrLION7: ya gw lihat wkld-mc.misa.pw/#
+[12:42:07] [Server thread/WARN]: Lordmax moved wrongly!
+[12:43:03] [User Authenticator #44/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:43:03] [Server thread/INFO]: anotherMIsa joined the game
+[12:43:03] [Server thread/INFO]: anotherMIsa[/125.164.21.155:13942] logged in with entity id 490960 at ([world]-1.5172050773412653, 117.0, -144.37130411841346)
+[12:43:06] [Craft Scheduler Thread - 10056 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.155
+[12:52:53] [Server thread/INFO]: anotherMIsa issued server command: /tps
+[12:56:21] [Server thread/WARN]: anotherMIsa moved wrongly!
+[13:19:59] [User Authenticator #45/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[13:20:00] [Server thread/INFO]: Ame4me joined the game
+[13:20:00] [Server thread/INFO]: Ame4me[/103.130.18.1:61322] logged in with entity id 506880 at ([world]-149.13749998807907, 119.125, -270.23750001192093)
+[13:20:09] [Craft Scheduler Thread - 10254 - AuthMe/INFO]: [AuthMe] Ame4me logged in 103.130.18.1
+[13:26:18] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[13:26:18] [Server thread/INFO]: Ame4me left the game
+[13:41:42] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:41:42] [Server thread/INFO]: anotherMIsa left the game
+[14:04:29] [User Authenticator #46/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[14:04:29] [Server thread/INFO]: MrLION7 joined the game
+[14:04:29] [Server thread/INFO]: MrLION7[/182.253.54.78:15601] logged in with entity id 519966 at ([world]-97.98847331245229, 41.0, -174.49997813609988)
+[14:04:39] [Craft Scheduler Thread - 10478 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
+[14:36:31] [Server thread/WARN]: MrLION7 moved wrongly!
+[15:00:07] [Server thread/INFO]: Lordmax has completed the challenge [It Spreads]
+[16:01:49] [User Authenticator #47/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[16:01:51] [Server thread/INFO]: Gyhh_ joined the game
+[16:01:51] [Server thread/INFO]: Gyhh_[/180.254.142.58:58466] logged in with entity id 560686 at ([world_nether]-32.69999998807907, 13.0, 65.30000001192093)
+[16:01:58] [Craft Scheduler Thread - 10915 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.142.58
+[16:10:47] [Server thread/WARN]: Lordmax moved wrongly!
+[16:38:40] [Server thread/INFO]: Villager EntityVillager['Villager'/17, uuid='8c7e6079-63cf-4000-854a-ab0a735c6e2d', l='ServerLevel[world]', x=-106.10, y=41.00, z=-179.49, cpos=[-7, -12], tl=8684900, v=true] died, message: 'Villager was slain by MrLION7'
+[17:06:15] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[17:06:15] [Server thread/INFO]: MrLION7 left the game
+[17:31:29] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[17:31:29] [Server thread/INFO]: Gyhh_ left the game
