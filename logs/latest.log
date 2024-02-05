@@ -46,3 +46,47 @@
 [05:40:18] [Craft Scheduler Thread - 7845 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.20.178
 [05:42:51] [Server thread/INFO]: anotherMIsa lost connection: Timed out
 [05:42:51] [Server thread/INFO]: anotherMIsa left the game
+[06:31:48] [User Authenticator #37/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[06:31:48] [Server thread/INFO]: anotherMIsa joined the game
+[06:31:48] [Server thread/INFO]: anotherMIsa[/125.164.22.145:14763] logged in with entity id 370478 at ([world]43.128907229549, 119.0, -157.76525045947668)
+[06:31:55] [Craft Scheduler Thread - 8143 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.145
+[06:34:30] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[06:34:31] [Server thread/INFO]: anotherMIsa left the game
+[07:25:27] [User Authenticator #38/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[07:25:29] [Server thread/INFO]: Gyhh_ joined the game
+[07:25:29] [Server thread/INFO]: Gyhh_[/180.254.142.58:52954] logged in with entity id 372481 at ([world]-365.0042910302263, 113.0, 395.81681857453935)
+[07:25:37] [Craft Scheduler Thread - 8455 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.142.58
+[08:18:08] [User Authenticator #39/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[08:18:08] [Server thread/INFO]: Lordmax joined the game
+[08:18:08] [Server thread/INFO]: Lordmax[/36.69.198.37:50269] logged in with entity id 383086 at ([world]-156.85456613299854, 53.5, -182.2735902649454)
+[08:18:14] [Craft Scheduler Thread - 8780 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.198.37
+[08:33:16] [Async Chat Thread - #73/INFO]: [Not Secure] <Lordmax> 720 856
+[08:33:22] [Async Chat Thread - #73/INFO]: [Not Secure] <Gyhh_> TES
+[08:40:45] [Async Chat Thread - #75/INFO]: [Not Secure] <Lordmax> -1050 1250
+[08:47:33] [Async Chat Thread - #77/INFO]: [Not Secure] <Lordmax> -744 861
+[08:47:55] [Server thread/INFO]: Gyhh_ has made the advancement [Sneak 100]
+[08:48:08] [Server thread/INFO]: Lordmax has made the advancement [Sneak 100]
+[08:53:46] [Server thread/INFO]: Lordmax was obliterated by a sonically-charged shriek
+[08:58:58] [Server thread/INFO]: Gyhh_ was obliterated by a sonically-charged shriek
+[09:08:47] [Server thread/INFO]: Gyhh_ fell from a high place
+[09:16:47] [Server thread/INFO]: Lordmax was slain by Warden
+[09:18:22] [Server thread/INFO]: Lordmax was slain by Warden
+[09:31:07] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[09:31:07] [Server thread/INFO]: Gyhh_ left the game
+[10:08:01] [User Authenticator #40/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[10:08:04] [Server thread/INFO]: Gyhh_ joined the game
+[10:08:04] [Server thread/INFO]: Gyhh_[/180.254.142.58:54602] logged in with entity id 429168 at ([world_the_end]281.81239160536626, 57.0, 34.331213824998486)
+[10:08:13] [Craft Scheduler Thread - 9303 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.142.58
+[10:43:42] [Server thread/INFO]: Lordmax has made the advancement [Oh Shiny]
+[11:26:43] [Server thread/INFO]: Lordmax lost connection: Disconnected
+[11:26:43] [Server thread/INFO]: Lordmax left the game
+[11:36:05] [User Authenticator #41/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[11:36:05] [Server thread/INFO]: Lordmax joined the game
+[11:36:05] [Server thread/INFO]: Lordmax[/36.69.198.37:52059] logged in with entity id 475971 at ([world]-142.40017977099498, 52.5, -179.1527338163164)
+[11:36:11] [Craft Scheduler Thread - 9746 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.198.37
+[11:39:15] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[11:39:15] [Server thread/INFO]: Gyhh_ left the game
+[11:54:51] [User Authenticator #42/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[11:54:51] [Server thread/INFO]: anotherMIsa joined the game
+[11:54:51] [Server thread/INFO]: anotherMIsa[/125.164.19.191:4695] logged in with entity id 479460 at ([world]-55.69999998807907, 75.0, -153.79536899767575)
+[11:54:57] [Craft Scheduler Thread - 9850 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
