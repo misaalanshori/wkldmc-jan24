@@ -38,3 +38,41 @@
 [04:56:38] [Server thread/INFO]: anotherMIsa joined the game
 [04:56:38] [Server thread/INFO]: anotherMIsa[/125.164.21.155:9281] logged in with entity id 661169 at ([world]1.7832463090959643, 117.0, -148.30788299400984)
 [04:56:41] [Craft Scheduler Thread - 14964 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.155
+[06:24:27] [User Authenticator #54/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[06:24:27] [Server thread/INFO]: Ame4me joined the game
+[06:24:27] [Server thread/INFO]: Ame4me[/66.96.225.135:54927] logged in with entity id 697117 at ([world]-259.82499998807907, 37.0, -212.5191267931834)
+[06:24:34] [Craft Scheduler Thread - 15531 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
+[06:25:55] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[06:25:55] [Server thread/INFO]: Ame4me left the game
+[06:49:56] [Server thread/INFO]: Gyhh_ issued server command: /me mandi
+[06:49:56] [Async Chat Thread - #86/INFO]: [Not Secure] * Gyhh_ mandi
+[07:22:35] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> is my laptop about to explode or are the zombies invisible?
+[07:23:06] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> ah I think I have a mod problem
+[07:23:43] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> i think its time to update my mods and version
+[07:23:44] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:23:44] [Server thread/INFO]: anotherMIsa left the game
+[08:18:42] [Server thread/INFO]: Gyhh_ lost connection: Timed out
+[08:18:42] [Server thread/INFO]: Gyhh_ left the game
+[08:24:09] [User Authenticator #55/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:24:09] [Server thread/INFO]: anotherMIsa joined the game
+[08:24:09] [Server thread/INFO]: anotherMIsa[/125.164.19.191:2058] logged in with entity id 747909 at ([world]-83.30000001192093, 65.0, -95.7849251595365)
+[08:24:25] [Craft Scheduler Thread - 16726 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
+[08:25:03] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:25:03] [Server thread/INFO]: anotherMIsa left the game
+[08:27:07] [User Authenticator #56/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:27:07] [Server thread/INFO]: anotherMIsa joined the game
+[08:27:07] [Server thread/INFO]: anotherMIsa[/125.164.19.191:24100] logged in with entity id 748539 at ([world]-48.854759212528926, 65.0, -90.82166142007893)
+[08:27:13] [Craft Scheduler Thread - 16744 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
+[08:33:58] [Async Chat Thread - #89/INFO]: [Not Secure] <anotherMIsa> test
+[08:34:00] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:34:00] [Server thread/INFO]: anotherMIsa left the game
+[08:51:37] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[08:51:37] [Server thread/INFO]: MrLION7 left the game
+[10:28:59] [User Authenticator #57/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[10:28:59] [Server thread/INFO]: anotherMIsa joined the game
+[10:28:59] [Server thread/INFO]: anotherMIsa[/125.164.21.155:15224] logged in with entity id 754082 at ([world]4.699999988079071, 113.5625, -137.30925939402076)
+[10:29:03] [Craft Scheduler Thread - 17928 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.155
+[10:33:35] [Server thread/WARN]: anotherMIsa moved wrongly!
+[10:36:06] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[10:36:41] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[10:36:49] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
