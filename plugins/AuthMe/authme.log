@@ -647,3 +647,54 @@
 	at java.base/java.lang.Thread.run(Thread.java:840)
 
 [02-07 02:00:43]: [FINE] anotherMIsa logged in 125.164.20.178
+[02-07 09:34:05]: [FINE] anotherMIsa logged in 125.164.16.157
+[02-07 09:56:50]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[02-07 09:57:20]: [INFO] SQLite Setup finished
+[02-07 09:57:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-07 09:57:20]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[02-07 09:57:21]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[02-07 09:57:21]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[02-07 09:57:21]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[02-07 09:57:21]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[02-07 09:57:21]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[02-07 09:58:13]: [FINE] anotherMIsa logged in 125.164.22.145
+[02-07 10:03:01]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[02-07 10:03:26]: [INFO] SQLite Setup finished
+[02-07 10:03:26]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-07 10:03:27]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[02-07 10:03:27]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[02-07 10:03:27]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[02-07 10:03:27]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[02-07 10:03:27]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[02-07 10:03:27]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[02-07 10:05:31]: [FINE] anotherMIsa logged in 125.164.18.146
