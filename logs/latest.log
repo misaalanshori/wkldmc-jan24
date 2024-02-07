@@ -1784,3 +1784,20 @@
 [10:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 112981ms or 2259 ticks behind
 [10:33:24] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [10:33:24] [Server thread/INFO]: anotherMIsa left the game
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡]  20.0, 20.0, 20.0, 20.0, *20.0
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡] 
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡]  5.6/7.4/10.1/12.8;  4.9/7.3/9.6/18.2
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡] 
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡] CPU usage from last 10s, 1m, 15m:
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡]  31%, 32%, 41%  (system)
+[13:56:25] [Craft Scheduler Thread - 1090 - spark/INFO]: [⚡]  28%, 29%, 38%  (process)
+[17:19:51] [User Authenticator #1/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[17:19:51] [Server thread/INFO]: MrLION7 joined the game
+[17:19:51] [Server thread/INFO]: MrLION7[/182.253.54.78:43485] logged in with entity id 12701 at ([world]-154.71069626857016, 53.5, -182.30000001192093)
+[17:20:01] [Craft Scheduler Thread - 2041 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
+[17:44:26] [User Authenticator #2/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[17:44:26] [Server thread/INFO]: Lordmax joined the game
+[17:44:26] [Server thread/INFO]: Lordmax[/36.69.198.37:61593] logged in with entity id 17955 at ([world]-146.605429342104, 53.5, -181.48716475709176)
+[17:44:36] [Craft Scheduler Thread - 2122 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.198.37
