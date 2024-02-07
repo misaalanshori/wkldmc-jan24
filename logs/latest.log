@@ -1,258 +1,111 @@
-[00:15:34] [User Authenticator #48/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[00:15:34] [Server thread/INFO]: anotherMIsa joined the game
-[00:15:34] [Server thread/INFO]: anotherMIsa[/125.164.18.146:20391] logged in with entity id 636799 at ([world]21.486652464408035, 116.53584062504456, -175.84964407180135)
-[00:15:38] [Craft Scheduler Thread - 13440 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.18.146
-[00:17:38] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[00:17:38] [Server thread/INFO]: anotherMIsa left the game
-[02:34:25] [User Authenticator #49/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[02:34:25] [Server thread/INFO]: anotherMIsa joined the game
-[02:34:25] [Server thread/INFO]: anotherMIsa[/125.164.23.44:20254] logged in with entity id 638578 at ([world]-89.81145436613195, 61.84581265002267, -110.37610387893193)
-[02:34:30] [Craft Scheduler Thread - 14237 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.44
-[02:54:05] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[02:54:05] [Server thread/INFO]: anotherMIsa left the game
-[03:03:16] [User Authenticator #50/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[03:03:16] [Server thread/INFO]: MrLION7 joined the game
-[03:03:16] [Server thread/INFO]: MrLION7[/182.253.54.78:16375] logged in with entity id 642219 at ([world]-161.9392381732335, 52.875, -193.41500757496996)
-[03:03:27] [Craft Scheduler Thread - 14387 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
-[03:03:40] [Server thread/INFO]: MrLION7 issued server command: /tps
-[04:34:45] [User Authenticator #51/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[04:34:47] [Server thread/INFO]: Gyhh_ joined the game
-[04:34:47] [Server thread/INFO]: Gyhh_[/180.254.142.58:53278] logged in with entity id 656044 at ([world]-26.155957106598155, 80.0, -195.9477639153515)
-[04:34:55] [Craft Scheduler Thread - 14854 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.142.58
-[04:35:03] [Async Chat Thread - #81/INFO]: [Not Secure] <Gyhh_> selamat pagi
-[04:47:35] [Async Chat Thread - #83/INFO]: [Not Secure] <MrLION7> yo
-[04:47:42] [Async Chat Thread - #83/INFO]: [Not Secure] <Gyhh_> yo
-[04:47:49] [Async Chat Thread - #83/INFO]: [Not Secure] <Gyhh_> gimana pemeariksaannya
-[04:47:51] [Async Chat Thread - #83/INFO]: [Not Secure] <Gyhh_> donor otaknya
-[04:48:07] [Async Chat Thread - #84/INFO]: [Not Secure] <MrLION7> mingdep kesana lagi
-[04:48:24] [Async Chat Thread - #84/INFO]: [Not Secure] <Gyhh_> hee
-[04:48:26] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[04:48:26] [Server thread/INFO]: Gyhh_ left the game
-[04:48:30] [User Authenticator #52/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[04:48:30] [Server thread/INFO]: Gyhh_ joined the game
-[04:48:30] [Server thread/INFO]: Gyhh_[/180.254.142.58:53396] logged in with entity id 659522 at ([world]-338.9284830084875, 170.0, 399.97914422987577)
-[04:48:37] [Craft Scheduler Thread - 14913 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.142.58
-[04:48:55] [Async Chat Thread - #84/INFO]: [Not Secure] <MrLION7> gw afk buat potato dan carrot
-[04:49:05] [Async Chat Thread - #84/INFO]: [Not Secure] <Gyhh_> okey
-[04:56:38] [User Authenticator #53/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[04:56:38] [Server thread/INFO]: anotherMIsa joined the game
-[04:56:38] [Server thread/INFO]: anotherMIsa[/125.164.21.155:9281] logged in with entity id 661169 at ([world]1.7832463090959643, 117.0, -148.30788299400984)
-[04:56:41] [Craft Scheduler Thread - 14964 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.155
-[06:24:27] [User Authenticator #54/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
-[06:24:27] [Server thread/INFO]: Ame4me joined the game
-[06:24:27] [Server thread/INFO]: Ame4me[/66.96.225.135:54927] logged in with entity id 697117 at ([world]-259.82499998807907, 37.0, -212.5191267931834)
-[06:24:34] [Craft Scheduler Thread - 15531 - AuthMe/INFO]: [AuthMe] Ame4me logged in 66.96.225.135
-[06:25:55] [Server thread/INFO]: Ame4me lost connection: Disconnected
-[06:25:55] [Server thread/INFO]: Ame4me left the game
-[06:49:56] [Server thread/INFO]: Gyhh_ issued server command: /me mandi
-[06:49:56] [Async Chat Thread - #86/INFO]: [Not Secure] * Gyhh_ mandi
-[07:22:35] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> is my laptop about to explode or are the zombies invisible?
-[07:23:06] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> ah I think I have a mod problem
-[07:23:43] [Async Chat Thread - #87/INFO]: [Not Secure] <anotherMIsa> i think its time to update my mods and version
-[07:23:44] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:23:44] [Server thread/INFO]: anotherMIsa left the game
-[08:18:42] [Server thread/INFO]: Gyhh_ lost connection: Timed out
-[08:18:42] [Server thread/INFO]: Gyhh_ left the game
-[08:24:09] [User Authenticator #55/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:24:09] [Server thread/INFO]: anotherMIsa joined the game
-[08:24:09] [Server thread/INFO]: anotherMIsa[/125.164.19.191:2058] logged in with entity id 747909 at ([world]-83.30000001192093, 65.0, -95.7849251595365)
-[08:24:25] [Craft Scheduler Thread - 16726 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
-[08:25:03] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:25:03] [Server thread/INFO]: anotherMIsa left the game
-[08:27:07] [User Authenticator #56/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[08:27:07] [Server thread/INFO]: anotherMIsa joined the game
-[08:27:07] [Server thread/INFO]: anotherMIsa[/125.164.19.191:24100] logged in with entity id 748539 at ([world]-48.854759212528926, 65.0, -90.82166142007893)
-[08:27:13] [Craft Scheduler Thread - 16744 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
-[08:33:58] [Async Chat Thread - #89/INFO]: [Not Secure] <anotherMIsa> test
-[08:34:00] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[08:34:00] [Server thread/INFO]: anotherMIsa left the game
-[08:51:37] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[08:51:37] [Server thread/INFO]: MrLION7 left the game
-[10:28:59] [User Authenticator #57/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[10:28:59] [Server thread/INFO]: anotherMIsa joined the game
-[10:28:59] [Server thread/INFO]: anotherMIsa[/125.164.21.155:15224] logged in with entity id 754082 at ([world]4.699999988079071, 113.5625, -137.30925939402076)
-[10:29:03] [Craft Scheduler Thread - 17928 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.21.155
-[10:33:35] [Server thread/WARN]: anotherMIsa moved wrongly!
-[10:36:06] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[10:36:41] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[10:36:49] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[12:37:02] [Server thread/INFO]: anotherMIsa issued server command: /ping
-[12:40:03] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[12:41:49] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[12:47:11] [Server thread/WARN]: anotherMIsa moved too quickly! 15.88612328697036,-1.797825459516389,8.473694235494804
-[13:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
-[13:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34890ms or 697 ticks behind
-[13:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
-[13:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 87321ms or 1746 ticks behind
-[13:08:38] [Server thread/WARN]: anotherMIsa moved too quickly! 16.18084990242278,-1.817817962694221,7.933919709897964
-[13:08:51] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 14.04, 17.52
-[13:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
-[13:10:14] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.99, 15.39, 17.52
-[13:10:34] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.2, 15.29, 17.48
-[13:12:02] [Server thread/WARN]: anotherMIsa moved too quickly! 16.302727497983142,-2.2757145044041067,6.940072864083049
-[13:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
-[13:12:19] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.69, 19.77, 17.46
-[13:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14175ms or 283 ticks behind
-[13:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[13:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
-[13:25:17] [Server thread/INFO]: Villager EntityVillager['Villager'/797145, uuid='1be4c00d-3f53-4075-8cd1-7a726de0ae7f', l='ServerLevel[world]', x=19090.63, y=64.00, z=9262.28, cpos=[1193, 578], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[13:26:31] [Server thread/WARN]: anotherMIsa moved too quickly! -15.471317781917605,-2.058067939024795,-9.315541658261282
-[13:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
-[13:27:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-408 (MC: 1.20.4) ---
-[13:27:46] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[13:27:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:27:46] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:27:46] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
-[13:27:46] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 947,446) in 'world']
-[13:27:46] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=947, chunkZ=446, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=IDLE, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=22, fullNeighbourChunksLoadedBitset=25559040, chunkStatusRaw=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
-[13:27:46] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.EntityPlayer
-[13:27:46] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
-[13:27:46] [Paper Watchdog Thread/ERROR]: Entity UUID: 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:27:46] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (15154.206190356923, 466.51779636393604, 7151.014157233936)
-[13:27:46] [Paper Watchdog Thread/ERROR]: Velocity: (-1.699898883477395, -0.24608178681393608, -1.0010704427803727) (in blocks per tick)
-[13:27:46] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[15153.906190345002, 466.51779636393604, 7150.714157222015] -> [15154.506190368844, 467.1177963877779, 7151.314157245857]
-[13:27:46] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 3648370
-[13:27:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:27:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:27:46] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:27:46] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/jdk.internal.misc.Unsafe.park(Native Method)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:282)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:889)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:828)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.absMoveTo(Entity.java:2038)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.absMoveTo(Entity.java:2022)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.handleMovePlayer(ServerGamePacketListenerImpl.java:1498)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.handle(ServerboundMovePlayerPacket.java:29)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.handle(ServerboundMovePlayerPacket.java:66)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:54)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$10180/0x00007f35c584d400.run(Unknown Source)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1455)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:194)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1432)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1355)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1547)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1216)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6314/0x00007f35c4b888e0.run(Unknown Source)
-[13:27:46] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/java.lang.Thread.run(Thread.java:840)
-[13:27:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:27:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:27:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:28:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-408 (MC: 1.20.4) ---
-[13:28:22] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[13:28:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:28:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:28:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
-[13:28:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 901,419) in 'world']
-[13:28:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=901, chunkZ=419, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=IDLE, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=5, fullNeighbourChunksLoadedBitset=17694720, chunkStatusRaw=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
-[13:28:22] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.EntityPlayer
-[13:28:22] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
-[13:28:22] [Paper Watchdog Thread/ERROR]: Entity UUID: 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:28:22] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (14422.768794903297, 371.14627430021017, 6719.395857866679)
-[13:28:22] [Paper Watchdog Thread/ERROR]: Velocity: (-1.7045564123682644, -0.24215841854742046, -1.0047525937600106) (in blocks per tick)
-[13:28:22] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[14422.468794891376, 371.14627430021017, 6719.095857854758] -> [14423.068794915218, 371.746274324052, 6719.6958578786]
-[13:28:22] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 3648783
-[13:28:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:28:22] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:28:22] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:28:22] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/jdk.internal.misc.Unsafe.park(Native Method)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:282)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:889)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:828)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.absMoveTo(Entity.java:2038)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.absMoveTo(Entity.java:2022)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.handleMovePlayer(ServerGamePacketListenerImpl.java:1498)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.handle(ServerboundMovePlayerPacket.java:29)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.handle(ServerboundMovePlayerPacket.java:66)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:54)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$10180/0x00007f35c584d400.run(Unknown Source)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1455)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:194)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1432)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1355)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1547)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1216)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6314/0x00007f35c4b888e0.run(Unknown Source)
-[13:28:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.10/java.lang.Thread.run(Thread.java:840)
-[13:28:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:28:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:28:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 95181ms or 1903 ticks behind
-[13:28:38] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:28:38] [Server thread/INFO]: anotherMIsa left the game
-[13:28:42] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 7.6, 15.08, 17.61
-[13:29:05] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 7.62, 15.08, 17.62
-[13:29:06] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 7.61, 15.08, 17.61
-[13:29:22] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 17.23, 15.08, 18.0
-[13:29:37] [User Authenticator #58/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:29:38] [Server thread/INFO]: anotherMIsa joined the game
-[13:29:38] [Server thread/INFO]: anotherMIsa[/125.164.19.191:19406] logged in with entity id 797888 at ([world]13953.297477081358, 320.354279449224, 6438.81282745482)
-[13:29:41] [Craft Scheduler Thread - 19579 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
-[13:30:04] [Server thread/WARN]: anotherMIsa moved too quickly! -8.019298754883494,17.566867055727812,-4.5437502540698915
-[13:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
-[13:30:32] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.11, 14.98, 17.99
-[13:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
-[13:30:54] [Server thread/WARN]: anotherMIsa moved too quickly! -15.414056116987922,-1.7967210183693965,-9.22442187195611
-[13:31:40] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 19.08, 14.87, 17.94
-[13:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
-[13:37:59] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 18.33, 19.64, 17.84
-[13:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24884ms or 497 ticks behind
-[13:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
-[13:39:26] [Server thread/WARN]: anotherMIsa moved too quickly! -53.75590026153168,-6.58577021686142,-26.85849846017436
-[13:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
-[13:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
-[13:40:03] [Server thread/WARN]: anotherMIsa moved too quickly! -63.92564757956643,-9.623457264075512,-32.189701397727276
-[13:45:45] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:45:45] [Server thread/INFO]: anotherMIsa left the game
-[14:35:01] [User Authenticator #59/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[14:35:01] [Server thread/INFO]: MrLION7 joined the game
-[14:35:01] [Server thread/INFO]: MrLION7[/182.253.54.78:1083] logged in with entity id 807608 at ([world]-165.43114606256987, 26.0, -177.95800197619178)
-[14:35:15] [Craft Scheduler Thread - 20231 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
-[15:10:14] [Server thread/INFO]: MrLION7 has made the advancement [Eye Spy]
-[15:14:16] [Server thread/INFO]: MrLION7 has made the advancement [The End?]
-[15:17:32] [Server thread/INFO]: MrLION7 has made the advancement [Remote Getaway]
-[15:28:23] [Server thread/INFO]: MrLION7 has made the advancement [The City at the End of the Game]
-[16:25:08] [User Authenticator #60/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[16:25:10] [Server thread/INFO]: Gyhh_ joined the game
-[16:25:10] [Server thread/INFO]: Gyhh_[/180.254.128.26:1783] logged in with entity id 827390 at ([world]75.30000001192093, 204.0, 243.30000001192093)
-[16:25:18] [Craft Scheduler Thread - 21212 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.128.26
-[16:33:19] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> regy
-[16:33:31] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> kamu ada elytra lebih ?
-[16:34:26] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> gy
-[16:34:28] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> gy
-[16:34:30] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> gy
-[16:34:33] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> gy
-[16:34:35] [Async Chat Thread - #91/INFO]: [Not Secure] <MrLION7> gy
-[16:45:22] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[16:45:22] [Server thread/INFO]: Gyhh_ left the game
-[16:52:39] [Server thread/INFO]: MrLION7 has made the advancement [Local Brewery]
-[16:52:57] [Server thread/INFO]: MrLION7 has reached the goal [Sky's the Limit]
-[16:58:33] [Server thread/INFO]: MrLION7 fell out of the world
-[17:10:02] [User Authenticator #61/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[17:10:03] [Server thread/INFO]: Gyhh_ joined the game
-[17:10:03] [Server thread/INFO]: Gyhh_[/180.254.128.26:2931] logged in with entity id 845039 at ([world]-53.66211351468785, 93.0, -242.22601741127588)
-[17:10:10] [Craft Scheduler Thread - 21603 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.128.26
-[17:10:33] [Server thread/WARN]: Gyhh_ moved wrongly!
-[17:31:31] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[17:31:31] [Server thread/INFO]: MrLION7 left the game
-[17:40:06] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[17:40:06] [Server thread/INFO]: Gyhh_ left the game
+[22:40:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:40:15] [ServerMain/INFO]: Loaded 1174 recipes
+[22:40:15] [ServerMain/INFO]: Loaded 1281 advancements
+[22:40:15] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[22:40:15] [Server thread/INFO]: Loading properties
+[22:40:15] [Server thread/INFO]: This server is running Paper version git-Paper-408 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: c5d168c)
+[22:40:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:40:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:40:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[22:40:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:40:16] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:16] [Server thread/INFO]: Generating keypair
+[22:40:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:17] [Server thread/INFO]: Using epoll channel type
+[22:40:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:40:17] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:40:17] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3-SNAPSHOT
+[22:40:17] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[22:40:18] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:40:18] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:40:18] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:40:18] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:40:19] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[22:40:20] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2-SNAPSHOT
+[22:40:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.6
+[22:40:20] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.59
+[22:40:20] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-4-935
+[22:40:20] [Server thread/INFO]: [dynmap] version=git-Paper-408 (MC: 1.20.4)
+[22:40:20] [Server thread/INFO]: [dynmap] Mod Support API available
+[22:40:20] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[22:40:20] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[22:40:20] [Server thread/INFO]: [SpigotPing] Loading server plugin SpigotPing v2.6
+[22:40:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:40:20] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[22:40:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.6
+[22:40:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[22:40:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:40:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:40:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:40:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:40:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:40:21] [Server thread/INFO]: Preparing level "world"
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.0.6
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 3b21903
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:40:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:40:21] [Server thread/INFO]: Time elapsed: 255 ms
+[22:40:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:40:23] [Server thread/INFO]: Time elapsed: 1629 ms
+[22:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:40:23] [Server thread/INFO]: Time elapsed: 203 ms
+[22:40:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3-SNAPSHOT
+[22:40:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
+[22:40:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2-SNAPSHOT
+[22:40:23] [Server thread/INFO]: [spark] Enabling spark v1.10.59
+[22:40:24] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[22:40:24] [Server thread/INFO]: [spark] Starting background profiler...
+[22:40:24] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
+[22:40:25] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[22:40:25] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[22:40:25] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[22:40:25] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[22:40:28] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[22:40:28] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[22:40:28] [Server thread/INFO]: [dynmap] Web server started on address 127.0.0.1:8123
+[22:40:28] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
+[22:40:28] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[22:40:28] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[22:40:28] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[22:40:28] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 6 pending tile renders for world 'world'
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[22:40:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[22:40:28] [Server thread/INFO]: [dynmap] Enabled
+[22:40:28] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[22:40:29] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:40:29] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[22:40:29] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[22:40:29] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[22:40:29] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[22:40:29] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[22:40:29] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[22:40:29] [Server thread/INFO]: --------------------
+[22:40:29] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[22:40:29] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[22:40:29] [Server thread/INFO]: --------------------
+[22:40:29] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[22:40:29] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[22:40:29] [Server thread/INFO]: Running delayed init tasks
+[22:40:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:40:29] [Server thread/INFO]: Done (14.341s)! For help, type "help"
+[22:40:29] [Server thread/INFO]: Timings Reset
+[22:40:29] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[22:40:29] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[22:40:29] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[22:40:29] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[22:40:30] [Server thread/WARN]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
