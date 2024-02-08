@@ -25,3 +25,9 @@
 [11:38:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Gyhh_> tes
 [11:39:32] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
 [11:39:32] [Server thread/INFO]: Gyhh_ left the game
+[12:38:37] [User Authenticator #5/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[12:38:38] [Server thread/INFO]: MrLION7 joined the game
+[12:38:38] [Server thread/INFO]: MrLION7[/182.253.54.78:12483] logged in with entity id 75239 at ([world]-122.86190551906685, 53.5, -177.1344634603644)
+[12:38:51] [Craft Scheduler Thread - 7378 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
+[13:22:47] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[13:22:47] [Server thread/INFO]: MrLION7 left the game
