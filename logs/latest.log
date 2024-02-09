@@ -161,3 +161,28 @@
 [09:54:47] [Server thread/INFO]: carxn_ left the game
 [11:52:34] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
 [11:52:34] [Server thread/INFO]: Gyhh_ left the game
+[12:34:56] [User Authenticator #11/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[12:34:57] [Server thread/INFO]: MrLION7 joined the game
+[12:34:57] [Server thread/INFO]: MrLION7[/182.253.54.78:1072] logged in with entity id 177142 at ([world]-133.23750001192093, 95.0, -229.9257299470844)
+[12:35:09] [Craft Scheduler Thread - 15575 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
+[12:44:23] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[12:44:23] [Server thread/INFO]: MrLION7 left the game
+[15:11:55] [User Authenticator #12/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[15:11:56] [Server thread/INFO]: MrLION7 joined the game
+[15:11:56] [Server thread/INFO]: MrLION7[/182.253.54.78:8077] logged in with entity id 181394 at ([world]-148.66107055663446, 52.5, -188.73462935861926)
+[15:12:05] [Craft Scheduler Thread - 16476 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.78
+[15:13:11] [User Authenticator #13/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
+[15:13:11] [Server thread/INFO]: Lordmax joined the game
+[15:13:11] [Server thread/INFO]: Lordmax[/36.69.198.37:56524] logged in with entity id 181765 at ([world]-141.67843119392975, 52.5, -178.3652324270817)
+[15:13:19] [Craft Scheduler Thread - 16483 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.69.198.37
+[17:00:01] [User Authenticator #14/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[17:00:04] [Server thread/INFO]: Gyhh_ joined the game
+[17:00:04] [Server thread/INFO]: Gyhh_[/125.164.97.92:18772] logged in with entity id 210676 at ([world]75.6547362144751, 204.0, 243.69999998807907)
+[17:00:10] [Craft Scheduler Thread - 16929 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 125.164.97.92
+[17:02:23] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[17:02:23] [Server thread/INFO]: Gyhh_ left the game
+[17:02:26] [User Authenticator #15/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[17:02:27] [Server thread/INFO]: Gyhh_ joined the game
+[17:02:27] [Server thread/INFO]: Gyhh_[/125.164.97.92:6254] logged in with entity id 211357 at ([world]-342.58349230148747, 170.0, 378.3149927516658)
+[17:02:32] [Craft Scheduler Thread - 16941 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 125.164.97.92
+[17:04:12] [Server thread/WARN]: Lordmax moved wrongly!
