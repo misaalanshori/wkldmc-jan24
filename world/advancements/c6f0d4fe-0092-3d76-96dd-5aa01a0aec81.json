@@ -3883,5 +3883,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-02-11 15:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-02-11 15:06:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
