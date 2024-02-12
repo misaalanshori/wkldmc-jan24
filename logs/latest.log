@@ -52,3 +52,15 @@
 [15:49:03] [Craft Scheduler Thread - 33000 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.254.141.103
 [16:07:47] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
 [16:07:47] [Server thread/INFO]: Gyhh_ left the game
+[23:12:38] [User Authenticator #31/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[23:12:38] [Server thread/INFO]: anotherMIsa joined the game
+[23:12:38] [Server thread/INFO]: anotherMIsa[/125.164.19.191:4337] logged in with entity id 337121 at ([world]-71.294500700752, 96.45270906062002, -339.7711254873863)
+[23:12:45] [Craft Scheduler Thread - 35542 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.19.191
+[23:15:13] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[23:15:13] [Server thread/INFO]: anotherMIsa left the game
+[23:18:43] [User Authenticator #32/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[23:18:43] [Server thread/INFO]: anotherMIsa joined the game
+[23:18:43] [Server thread/INFO]: anotherMIsa[/125.164.22.145:6535] logged in with entity id 338152 at ([world]-4.699999988079071, 113.0, -137.45974484368722)
+[23:18:47] [Craft Scheduler Thread - 35577 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.145
+[23:35:36] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[23:35:36] [Server thread/INFO]: anotherMIsa left the game
