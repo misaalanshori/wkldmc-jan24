@@ -74,6 +74,7 @@
       "minecraft:swamp": "2024-02-04 16:44:08 +0000",
       "minecraft:birch_forest": "2024-01-27 06:58:36 +0000",
       "minecraft:windswept_hills": "2024-02-04 16:43:17 +0000",
+      "minecraft:savanna": "2024-02-14 09:13:57 +0000",
       "minecraft:plains": "2024-01-25 14:20:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-02-03 14:04:32 +0000"
     },
@@ -4297,18 +4298,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-02-13 14:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-02-13 14:53:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-02-13 13:10:38 +0000"
@@ -4321,15 +4310,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-02-13 14:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-02-13 14:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-02-13 14:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2024-02-13 15:06:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_cocoa": "2024-02-13 14:53:02 +0000"
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-02-14 09:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-02-14 08:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-14 07:10:36 +0000"
     },
     "done": true
   },
