@@ -10,3 +10,15 @@
 [07:17:58] [Craft Scheduler Thread - 57544 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.44
 [07:19:29] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [07:19:30] [Server thread/INFO]: anotherMIsa left the game
+[13:46:00] [User Authenticator #68/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[13:46:02] [Server thread/INFO]: Gyhh_ joined the game
+[13:46:02] [Server thread/INFO]: Gyhh_[/125.164.98.202:1461] logged in with entity id 632865 at ([world]-384.55022128292245, 189.0, 388.7239773695894)
+[13:46:09] [Craft Scheduler Thread - 59391 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 125.164.98.202
+[13:48:37] [User Authenticator #69/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[13:48:37] [Server thread/INFO]: MrLION7 joined the game
+[13:48:37] [Server thread/INFO]: MrLION7[/182.253.54.80:17804] logged in with entity id 632976 at ([world]-375.1015733518877, 173.0, 382.3950958213977)
+[13:48:54] [Craft Scheduler Thread - 59404 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.80
+[16:44:32] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[16:44:33] [Server thread/INFO]: Gyhh_ left the game
+[16:44:56] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[16:44:56] [Server thread/INFO]: MrLION7 left the game
