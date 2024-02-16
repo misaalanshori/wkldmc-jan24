@@ -1,24 +1,22 @@
-[05:01:46] [User Authenticator #66/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[05:01:46] [Server thread/INFO]: anotherMIsa joined the game
-[05:01:46] [Server thread/INFO]: anotherMIsa[/125.164.17.100:15033] logged in with entity id 626112 at ([world]-4.40057019283804, 113.90361454176198, -139.06242299041898)
-[05:01:56] [Craft Scheduler Thread - 56931 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.100
-[05:08:07] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[05:08:07] [Server thread/INFO]: anotherMIsa left the game
-[07:17:55] [User Authenticator #67/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:17:55] [Server thread/INFO]: anotherMIsa joined the game
-[07:17:55] [Server thread/INFO]: anotherMIsa[/125.164.23.44:6611] logged in with entity id 629441 at ([world]0.9040142321736304, 113.875, -138.48978630286817)
-[07:17:58] [Craft Scheduler Thread - 57544 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.23.44
-[07:19:29] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:19:30] [Server thread/INFO]: anotherMIsa left the game
-[13:46:00] [User Authenticator #68/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[13:46:02] [Server thread/INFO]: Gyhh_ joined the game
-[13:46:02] [Server thread/INFO]: Gyhh_[/125.164.98.202:1461] logged in with entity id 632865 at ([world]-384.55022128292245, 189.0, 388.7239773695894)
-[13:46:09] [Craft Scheduler Thread - 59391 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 125.164.98.202
-[13:48:37] [User Authenticator #69/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[13:48:37] [Server thread/INFO]: MrLION7 joined the game
-[13:48:37] [Server thread/INFO]: MrLION7[/182.253.54.80:17804] logged in with entity id 632976 at ([world]-375.1015733518877, 173.0, 382.3950958213977)
-[13:48:54] [Craft Scheduler Thread - 59404 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.80
-[16:44:32] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[16:44:33] [Server thread/INFO]: Gyhh_ left the game
-[16:44:56] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[16:44:56] [Server thread/INFO]: MrLION7 left the game
+[02:04:55] [User Authenticator #70/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
+[02:04:55] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:60430): You are not whitelisted on this server!
+[02:04:55] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:60430) lost connection: You are not whitelisted on this server!
+[05:27:14] [User Authenticator #71/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[05:27:14] [Server thread/INFO]: MrLION7 joined the game
+[05:27:14] [Server thread/INFO]: MrLION7[/182.253.54.80:30095] logged in with entity id 683030 at ([world]-143.26041958845235, 71.0, -182.30000001192093)
+[05:27:29] [Craft Scheduler Thread - 64285 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.80
+[05:37:38] [Server thread/INFO]: MrLION7 experienced kinetic energy
+[05:38:40] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[05:38:40] [Server thread/INFO]: MrLION7 left the game
+[05:38:53] [User Authenticator #72/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
+[05:38:54] [Server thread/INFO]: MrLION7 joined the game
+[05:38:54] [Server thread/INFO]: MrLION7[/182.253.54.80:10586] logged in with entity id 687035 at ([world]-121.70019803077615, 103.0, -234.69999998807907)
+[05:39:00] [Craft Scheduler Thread - 64328 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.80
+[05:41:08] [User Authenticator #73/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[05:41:11] [Server thread/INFO]: Gyhh_ joined the game
+[05:41:11] [Server thread/INFO]: Gyhh_[/125.164.98.202:25129] logged in with entity id 687541 at ([world]-135.41566068434292, 118.0, -228.20127153822094)
+[05:41:17] [Craft Scheduler Thread - 64335 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 125.164.98.202
+[05:42:02] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[05:42:02] [Server thread/INFO]: Gyhh_ left the game
+[05:43:10] [Server thread/INFO]: MrLION7 lost connection: Disconnected
+[05:43:10] [Server thread/INFO]: MrLION7 left the game
