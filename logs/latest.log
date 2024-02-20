@@ -1,71 +1,12 @@
-[07:06:38] [User Authenticator #75/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:06:39] [Server thread/INFO]: anotherMIsa joined the game
-[07:06:39] [Server thread/INFO]: anotherMIsa[/180.244.135.110:31386] logged in with entity id 702409 at ([world]58.09621866620401, 119.0, -163.99122395673368)
-[07:06:56] [Craft Scheduler Thread - 73114 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 180.244.135.110
-[07:08:09] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[07:08:09] [Server thread/INFO]: anotherMIsa left the game
-[07:11:39] [User Authenticator #76/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[07:11:39] [Server thread/INFO]: anotherMIsa joined the game
-[07:11:39] [Server thread/INFO]: anotherMIsa[/180.244.135.110:12830] logged in with entity id 702760 at ([world]-112.18429864685272, 68.0, -75.50994942607237)
-[07:11:48] [Craft Scheduler Thread - 73139 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 180.244.135.110
-[07:12:21] [Server thread/INFO]: anotherMIsa lost connection: Timed out
-[07:12:21] [Server thread/INFO]: anotherMIsa left the game
-[09:21:53] [User Authenticator #77/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:21:53] [Server thread/INFO]: anotherMIsa joined the game
-[09:21:53] [Server thread/INFO]: anotherMIsa[/36.79.164.161:57483] logged in with entity id 704167 at ([world]-112.18429864685272, 68.0, -75.50994942607237)
-[09:21:58] [Craft Scheduler Thread - 73810 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 36.79.164.161
-[09:23:12] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[09:23:12] [Server thread/INFO]: anotherMIsa left the game
-[12:45:32] [User Authenticator #78/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[12:45:32] [Server thread/INFO]: anotherMIsa joined the game
-[12:45:32] [Server thread/INFO]: anotherMIsa[/36.79.164.161:50479] logged in with entity id 706495 at ([world]27.228114378751066, 119.0, -154.4631212032278)
-[12:45:43] [Craft Scheduler Thread - 74868 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 36.79.164.161
-[12:56:00] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[12:56:00] [Server thread/INFO]: anotherMIsa left the game
-[13:37:27] [User Authenticator #79/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:37:27] [Server thread/INFO]: anotherMIsa joined the game
-[13:37:27] [Server thread/INFO]: anotherMIsa[/36.79.164.161:53099] logged in with entity id 709948 at ([world]-47.10193039511174, 65.0, -92.81850572976991)
-[13:37:36] [Craft Scheduler Thread - 75165 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 36.79.164.161
-[13:40:37] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:40:37] [Server thread/INFO]: anotherMIsa left the game
-[13:43:12] [User Authenticator #80/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:43:13] [Server thread/INFO]: anotherMIsa joined the game
-[13:43:13] [Server thread/INFO]: anotherMIsa[/36.79.164.161:53339] logged in with entity id 711492 at ([world]-40.10962319263733, 84.0, -80.12160638768286)
-[13:43:21] [Craft Scheduler Thread - 75196 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 36.79.164.161
-[13:45:51] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:45:51] [Server thread/INFO]: anotherMIsa left the game
-[13:47:47] [User Authenticator #81/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[13:47:47] [Server thread/INFO]: anotherMIsa joined the game
-[13:47:47] [Server thread/INFO]: anotherMIsa[/36.79.164.161:53571] logged in with entity id 712896 at ([world]-38.55563223252119, 81.81121543411057, -100.11923599519325)
-[13:47:55] [Craft Scheduler Thread - 75219 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 36.79.164.161
-[13:48:40] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[13:48:40] [Server thread/INFO]: anotherMIsa left the game
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.0.6
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 3b21903
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     A new version (15.0.7) is available! Downloading update...
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:35:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[16:35:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1030ms
-[16:35:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[16:35:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[16:47:34] [User Authenticator #82/INFO]: UUID of player Lordmax is 4ca7f242-74eb-37fb-8064-f3162aafab8f
-[16:47:35] [Server thread/INFO]: Lordmax joined the game
-[16:47:35] [Server thread/INFO]: Lordmax[/36.79.164.161:49221] logged in with entity id 714334 at ([world]-140.5, 54.875, -180.5)
-[16:47:42] [Craft Scheduler Thread - 76270 - AuthMe/INFO]: [AuthMe] The user Lordmax has 2 accounts:
-[16:47:42] [Craft Scheduler Thread - 76270 - AuthMe/INFO]: [AuthMe] §7anothermisa, §aLordmax§7.
-[16:47:42] [Craft Scheduler Thread - 76270 - AuthMe/INFO]: [AuthMe] Lordmax logged in 36.79.164.161
-[16:47:55] [User Authenticator #82/INFO]: UUID of player MrLION7 is 06eec3e3-25cc-33fc-bd81-524482930834
-[16:47:55] [Server thread/INFO]: MrLION7 joined the game
-[16:47:55] [Server thread/INFO]: MrLION7[/182.253.54.104:20606] logged in with entity id 714479 at ([world]-156.96870415409575, 69.0, -150.1420921441294)
-[16:48:05] [Craft Scheduler Thread - 76271 - AuthMe/INFO]: [AuthMe] MrLION7 logged in 182.253.54.104
-[16:53:16] [Server thread/INFO]: MrLION7 lost connection: Disconnected
-[16:53:16] [Server thread/INFO]: MrLION7 left the game
-[17:08:50] [Server thread/INFO]: Lordmax lost connection: Disconnected
-[17:08:50] [Server thread/INFO]: Lordmax left the game
+[12:01:25] [User Authenticator #83/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:01:25] [Server thread/INFO]: anotherMIsa joined the game
+[12:01:25] [Server thread/INFO]: anotherMIsa[/180.244.134.58:31587] logged in with entity id 743412 at ([world]-32.41498136860402, 66.0, -143.69999998807907)
+[12:01:44] [Craft Scheduler Thread - 99637 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 180.244.134.58
+[12:29:40] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:29:40] [Server thread/INFO]: anotherMIsa left the game
+[12:34:01] [User Authenticator #84/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[12:34:01] [Server thread/INFO]: anotherMIsa joined the game
+[12:34:01] [Server thread/INFO]: anotherMIsa[/180.244.134.58:19968] logged in with entity id 750633 at ([world]-74.36735812812059, 66.0, -76.66808233327548)
+[12:34:05] [Craft Scheduler Thread - 99804 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 180.244.134.58
+[12:40:45] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[12:40:46] [Server thread/INFO]: anotherMIsa left the game
