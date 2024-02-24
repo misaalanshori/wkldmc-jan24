@@ -14,3 +14,8 @@
 [07:31:24] [Craft Scheduler Thread - 131327 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.244.134.58
 [07:39:04] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
 [07:39:04] [Server thread/INFO]: Gyhh_ left the game
+[16:00:56] [User Authenticator #90/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[16:00:58] [Server thread/INFO]: Ame4me joined the game
+[16:00:58] [Server thread/INFO]: Ame4me[/185.65.134.175:39752] logged in with entity id 804950 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[16:00:59] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:00:59] [Server thread/INFO]: Ame4me left the game
