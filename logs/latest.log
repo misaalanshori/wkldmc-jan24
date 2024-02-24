@@ -1,3 +1,16 @@
-[02:27:17] [User Authenticator #87/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
-[02:27:17] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:52328): You are not whitelisted on this server!
-[02:27:17] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:52328) lost connection: You are not whitelisted on this server!
+[06:27:43] [User Authenticator #88/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[06:27:45] [Server thread/INFO]: Gyhh_ joined the game
+[06:27:45] [Server thread/INFO]: Gyhh_[/180.244.134.58:13309] logged in with entity id 793465 at ([world]-115.63434306380344, 121.0, -244.80911480929927)
+[06:27:58] [Craft Scheduler Thread - 130976 - AuthMe/INFO]: [AuthMe] The user Gyhh_ has 2 accounts:
+[06:27:58] [Craft Scheduler Thread - 130976 - AuthMe/INFO]: [AuthMe] §7anothermisa, §aGyhh_§7.
+[06:27:58] [Craft Scheduler Thread - 130976 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.244.134.58
+[07:31:10] [Server thread/INFO]: Gyhh_ lost connection: Timed out
+[07:31:10] [Server thread/INFO]: Gyhh_ left the game
+[07:31:11] [User Authenticator #89/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[07:31:11] [Server thread/INFO]: Gyhh_ joined the game
+[07:31:11] [Server thread/INFO]: Gyhh_[/180.244.134.58:15744] logged in with entity id 801698 at ([world]-347.37726520968306, 171.0, 406.7489582744258)
+[07:31:24] [Craft Scheduler Thread - 131327 - AuthMe/INFO]: [AuthMe] The user Gyhh_ has 2 accounts:
+[07:31:24] [Craft Scheduler Thread - 131327 - AuthMe/INFO]: [AuthMe] §7anothermisa, §aGyhh_§7.
+[07:31:24] [Craft Scheduler Thread - 131327 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.244.134.58
+[07:39:04] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[07:39:04] [Server thread/INFO]: Gyhh_ left the game
