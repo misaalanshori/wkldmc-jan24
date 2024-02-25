@@ -4,3 +4,8 @@
 [05:54:56] [Craft Scheduler Thread - 139121 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.145
 [05:55:25] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [05:55:25] [Server thread/INFO]: anotherMIsa left the game
+[16:16:55] [User Authenticator #92/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[16:16:59] [Server thread/INFO]: Ame4me joined the game
+[16:16:59] [Server thread/INFO]: Ame4me[/91.207.57.148:45018] logged in with entity id 814081 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[16:17:01] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:17:01] [Server thread/INFO]: Ame4me left the game
