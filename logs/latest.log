@@ -3,3 +3,13 @@
 [00:47:04] [Server thread/INFO]: Ame4me[/185.65.134.146:43974] logged in with entity id 817418 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
 [00:47:05] [Server thread/INFO]: Ame4me lost connection: Disconnected
 [00:47:05] [Server thread/INFO]: Ame4me left the game
+[09:02:58] [User Authenticator #94/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[09:02:59] [Server thread/INFO]: anotherMIsa joined the game
+[09:02:59] [Server thread/INFO]: anotherMIsa[/180.244.134.58:3983] logged in with entity id 820470 at ([world]3.5226738439046508, 117.0, -143.42334215470373)
+[09:03:05] [Craft Scheduler Thread - 148543 - AuthMe/INFO]: [AuthMe] The user anotherMIsa has 2 accounts:
+[09:03:05] [Craft Scheduler Thread - 148543 - AuthMe/INFO]: [AuthMe] §7§aanotherMIsa§7, gyhh_.
+[09:03:05] [Craft Scheduler Thread - 148543 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 180.244.134.58
+[09:04:22] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[09:04:22] [Server thread/INFO]: anotherMIsa left the game
+[10:41:30] [User Authenticator #95/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[10:41:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@627dff84[id=0023fae4-6289-3426-be11-7e0ab9f49f9b,name=Ame4me,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTYwMTk2NDMxNDk3MCwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IwNDVkNGIzMGQ0YjNiOWVlMDUzODU2MGZjNmM2MTczYmMxYWUxZDdjZWIwYWVkZTFhMDA5N2JlZDNkZGJhODgiCiAgICB9CiAgfQp9, signature=a3fCUDexFPFVAY2eR9lz2gGl9S6CEB7taPcYUOkODSAxPpiRkQQEOCojewFig/Qhd/FoMF3fZmHiqMdUbakDCrlLpJq+6Sx7LhMHTjEv0VCzQkKEbpSS0WlWfeROIED+9C+cmVKv1Nz3KSUNcgJMe1Uce97g8UOOH6e8Lvp9qJAnTk/CcXQPszTYkPiPkB77dltPpbJ8WMGKSrarCwxeuEvVeAhusfOWLNf85hvmlnwkZCEmHlqL4UDFliJ7HJKZpBvktjgdHWHwrE0klHlrB/niSevA9VUgtViPEkHuuUQLWEKJQq07isHgbSlWy146C2hKuz5vBYDtMZx1UkycinfJ/3ggEwZ7KGMgKfUzWI5n2CFDtLiTFaZqqBUzbosSQ2CUaW4olSLcVwMy1CYk0gBjQsyksdWa/+fAW4zOkXhN7alh1TnFxQJSKPDrHaSLpMI/kweYh5F5uavGv3DDDsPo/qiVP0PgPf8JjQlvgH2z2SJGpW9T1QsA1erCy+GJnCDPzBXvF1RHp0kQEn7oEn4bHKdVhbV22Vz1DhQFvayCKbPv6yYt0bR4ml9wpzNVxNBQgCKA+gYb3YFF3LIVm7hXvG+3imllqaCmAsRO07ERgBhQEXWUhvCZWnhpusIhDT7JqtWdYuY8oHHLp10f8mDRfkUrsH6D6uSWhZl56BE=]]}] lost connection: Disconnected
