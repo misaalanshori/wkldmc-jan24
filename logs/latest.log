@@ -36,3 +36,28 @@ Caused by: java.net.SocketException: Connection reset
 [11:29:38] [Server thread/INFO]: Ame4me[/91.207.57.142:48376] logged in with entity id 839062 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
 [11:29:39] [Server thread/INFO]: Ame4me lost connection: Disconnected
 [11:29:39] [Server thread/INFO]: Ame4me left the game
+[14:14:18] [User Authenticator #103/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[14:14:19] [Server thread/INFO]: Ame4me joined the game
+[14:14:19] [Server thread/INFO]: Ame4me[/185.65.134.159:54498] logged in with entity id 840062 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[14:14:20] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[14:14:20] [Server thread/INFO]: Ame4me left the game
+[15:28:54] [User Authenticator #104/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[15:28:55] [Server thread/INFO]: Ame4me joined the game
+[15:28:55] [Server thread/INFO]: Ame4me[/91.207.57.137:58522] logged in with entity id 840647 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[15:28:56] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[15:28:56] [Server thread/INFO]: Ame4me left the game
+[16:21:43] [User Authenticator #105/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[16:21:44] [Server thread/INFO]: Ame4me joined the game
+[16:21:44] [Server thread/INFO]: Ame4me[/146.70.197.62:57014] logged in with entity id 841196 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[16:21:45] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:21:45] [Server thread/INFO]: Ame4me left the game
+[16:43:03] [User Authenticator #106/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[16:43:04] [Server thread/INFO]: Ame4me joined the game
+[16:43:04] [Server thread/INFO]: Ame4me[/193.138.218.162:56244] logged in with entity id 841440 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[16:43:04] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:43:04] [Server thread/INFO]: Ame4me left the game
+[17:54:34] [User Authenticator #107/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[17:54:35] [Server thread/INFO]: Ame4me joined the game
+[17:54:35] [Server thread/INFO]: Ame4me[/193.32.126.138:33038] logged in with entity id 841927 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[17:54:35] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[17:54:35] [Server thread/INFO]: Ame4me left the game
