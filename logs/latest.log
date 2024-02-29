@@ -61,3 +61,23 @@ Caused by: java.net.SocketException: Connection reset
 [17:54:35] [Server thread/INFO]: Ame4me[/193.32.126.138:33038] logged in with entity id 841927 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
 [17:54:35] [Server thread/INFO]: Ame4me lost connection: Disconnected
 [17:54:35] [Server thread/INFO]: Ame4me left the game
+[18:33:10] [User Authenticator #108/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[18:33:11] [Server thread/INFO]: Ame4me joined the game
+[18:33:11] [Server thread/INFO]: Ame4me[/185.213.155.138:47576] logged in with entity id 842146 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[18:33:11] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[18:33:11] [Server thread/INFO]: Ame4me left the game
+[20:14:37] [User Authenticator #109/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[20:14:38] [Server thread/INFO]: Ame4me joined the game
+[20:14:38] [Server thread/INFO]: Ame4me[/82.102.19.78:52820] logged in with entity id 842782 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[20:14:39] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[20:14:39] [Server thread/INFO]: Ame4me left the game
+[20:25:16] [User Authenticator #110/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[20:25:19] [Server thread/INFO]: Ame4me joined the game
+[20:25:19] [Server thread/INFO]: Ame4me[/146.70.197.55:58424] logged in with entity id 842852 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[20:25:21] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[20:25:21] [Server thread/INFO]: Ame4me left the game
+[23:33:33] [User Authenticator #111/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[23:33:34] [Server thread/INFO]: Ame4me joined the game
+[23:33:34] [Server thread/INFO]: Ame4me[/193.32.126.160:36012] logged in with entity id 843999 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[23:33:35] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[23:33:35] [Server thread/INFO]: Ame4me left the game
