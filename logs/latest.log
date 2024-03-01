@@ -3,3 +3,6 @@
 [00:34:37] [Server thread/INFO]: Ame4me[/185.213.155.174:44738] logged in with entity id 3087 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
 [00:34:38] [Server thread/INFO]: Ame4me lost connection: Disconnected
 [00:34:38] [Server thread/INFO]: Ame4me left the game
+[10:54:23] [User Authenticator #6/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
+[10:54:23] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:39014): You are not whitelisted on this server!
+[10:54:23] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:39014) lost connection: You are not whitelisted on this server!
