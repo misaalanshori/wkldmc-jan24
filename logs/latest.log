@@ -6,3 +6,23 @@
 [10:54:23] [User Authenticator #6/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
 [10:54:23] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:39014): You are not whitelisted on this server!
 [10:54:23] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:39014) lost connection: You are not whitelisted on this server!
+[13:12:56] [User Authenticator #7/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[13:12:56] [Server thread/INFO]: Ame4me joined the game
+[13:12:56] [Server thread/INFO]: Ame4me[/185.65.134.176:52924] logged in with entity id 7381 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[13:12:57] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[13:12:57] [Server thread/INFO]: Ame4me left the game
+[14:10:00] [User Authenticator #8/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[14:10:01] [Server thread/INFO]: Ame4me joined the game
+[14:10:01] [Server thread/INFO]: Ame4me[/141.98.254.161:34668] logged in with entity id 7697 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[14:10:02] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[14:10:02] [Server thread/INFO]: Ame4me left the game
+[14:17:27] [User Authenticator #9/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[14:17:28] [Server thread/INFO]: Ame4me joined the game
+[14:17:28] [Server thread/INFO]: Ame4me[/185.213.155.186:46910] logged in with entity id 7741 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[14:17:30] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[14:17:30] [Server thread/INFO]: Ame4me left the game
+[16:51:02] [User Authenticator #10/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
+[16:51:03] [Server thread/INFO]: Ame4me joined the game
+[16:51:03] [Server thread/INFO]: Ame4me[/193.138.218.162:58240] logged in with entity id 8650 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
+[16:51:04] [Server thread/INFO]: Ame4me lost connection: Disconnected
+[16:51:04] [Server thread/INFO]: Ame4me left the game
