@@ -1,5 +1,6 @@
-[07:25:02] [User Authenticator #19/INFO]: UUID of player Ame4me is 0023fae4-6289-3426-be11-7e0ab9f49f9b
-[07:25:03] [Server thread/INFO]: Ame4me joined the game
-[07:25:03] [Server thread/INFO]: Ame4me[/185.65.134.160:42546] logged in with entity id 29435 at ([world]-145.5432184814255, 119.0, -269.1202423948897)
-[07:25:03] [Server thread/INFO]: Ame4me lost connection: Disconnected
-[07:25:03] [Server thread/INFO]: Ame4me left the game
+[03:47:11] [User Authenticator #20/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[03:47:12] [Server thread/INFO]: anotherMIsa joined the game
+[03:47:12] [Server thread/INFO]: anotherMIsa[/114.124.238.101:44838] logged in with entity id 35899 at ([world]16.727363005144706, 118.0, -159.00665873520538)
+[03:47:25] [Craft Scheduler Thread - 36786 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 114.124.238.101
+[03:50:42] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[03:50:42] [Server thread/INFO]: anotherMIsa left the game
