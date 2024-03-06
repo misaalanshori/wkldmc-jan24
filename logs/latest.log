@@ -1,14 +1,7 @@
-[03:47:11] [User Authenticator #20/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[03:47:12] [Server thread/INFO]: anotherMIsa joined the game
-[03:47:12] [Server thread/INFO]: anotherMIsa[/114.124.238.101:44838] logged in with entity id 35899 at ([world]16.727363005144706, 118.0, -159.00665873520538)
-[03:47:25] [Craft Scheduler Thread - 36786 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 114.124.238.101
-[03:50:42] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[03:50:42] [Server thread/INFO]: anotherMIsa left the game
-[09:45:55] [User Authenticator #21/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[09:45:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a3c477[id=1f81fcbc-5c84-359a-87c6-0b01ed9e427e,name=anotherMIsa,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcwNzA0Mjk3MDA1OCwKICAicHJvZmlsZUlkIiA6ICI5YjA1YzM5YmVlM2Q0N2U1OGQwNTQxNmFjYWU3NDdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbm90aGVyTUlzYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yM2JiNGUyZmFlYjViM2U1NmQzOWI5MTE3NzBlOGMyNGJhNTE3NzQ5Y2UzMGQxZDUyZTE3Mzc0MzliNDY2NTFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZkNTUzYjM5MzU4YTI0ZWRmZTNiOGE5YTkzOWZhNWZhNGZhYTRkOWE5YzNkNmFmOGVhZmIzNzdmYTA1YzJiYiIKICAgIH0KICB9Cn0=, signature=rdiqooUMW35F1QcvuDTMQ/JUjMBp8Ipqh56WY6evy21lABN7U4ioJOeebQV1YnChbEsOq2LEmbuq9A/Wuph0LY8oc3SXXO+Bc6CYSGUp2Y7eBFhwJkQ1OEchx7p9BWm+rBZASzkdKfCC5KhuxgD/ofPhEnJlx4t7ocf8AJBW7KHVAovHlK7Fetb+YOEedBuuJavVRYt5tzVFYiQOyTl+JWckWWbHpLWk8swUzrhCvLywYH0VaWoeq15V+3/jV7LVKCtFbH5IXQz/ubxCtvlqfkri864ggeiPz6Bmh8KDQ6lfG+uKRp5k3hUbc6jga3BCt5VtXGvithUkt3GQjfVGOfnzl5tAMDLeIgR4FvISFbD8mJYHLrvd/PPVlGMlh3tDKUI8799gEDfm0mk8A/sLn/usQBAGK1x8u+okIfFNkbyPcCmrm+LpALjMjomyfehoZ0vYSkrpTpXEGoKIMzxwY1Ed4u+TA0QkBhx0roXs6jPhmYvwdm916AloSkk7CD914K/c5eSSoIUKUnZa5U5KigfhaUL8k2H4qePxOrTQgptEbeeX9Tzmr7b5V2sZ0KbilquDCbl6sTrV0UNegkyGWKLH/mr9vFCu6CyAyEDUvgw2oyTEcZZkW0WNkNNNUI3xlBNpYuhFhah1kOQ8BAqz9RRbynMP5KyHzi50gR/de+A=]]}] lost connection: Disconnected
-[16:22:00] [User Authenticator #22/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[16:22:01] [Server thread/INFO]: Gyhh_ joined the game
-[16:22:01] [Server thread/INFO]: Gyhh_[/180.244.133.86:15437] logged in with entity id 40941 at ([world]-366.07878331200214, 173.0, 380.0878469259637)
-[16:22:06] [Craft Scheduler Thread - 41170 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.244.133.86
-[16:34:30] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[16:34:30] [Server thread/INFO]: Gyhh_ left the game
+[09:24:30] [User Authenticator #23/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[09:24:31] [Server thread/INFO]: Gyhh_ joined the game
+[09:24:31] [Server thread/INFO]: Gyhh_[/180.244.133.86:3977] logged in with entity id 46817 at ([world]-363.5515426651713, 173.0, 382.23745656915537)
+[09:24:37] [Craft Scheduler Thread - 47105 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 180.244.133.86
+[10:34:34] [Server thread/WARN]: Gyhh_ moved too quickly! 8.137072077106609,-6.0,1.7904710733011484
+[10:43:00] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[10:43:00] [Server thread/INFO]: Gyhh_ left the game
