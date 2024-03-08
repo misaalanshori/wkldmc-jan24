@@ -1,8 +1,6 @@
-[15:05:06] [User Authenticator #31/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[15:05:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@4253b385[id=c6f0d4fe-0092-3d76-96dd-5aa01a0aec81,name=Gyhh_,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcwNzA0MDc1MzkxMCwKICAicHJvZmlsZUlkIiA6ICI2MWE4ZTYxOGRlYzQ0ZjA0YWI4OTYyMWQ1MDM2OGMwYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHeWhoXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzRjOWQwN2JhNmM0N2ZhZjU3NjFmMDhjNTVlNzZmYjU4YzI2ZmVlZWY3NjRkOThlMjNlZGU0YzI3ZjYyMDZhIgogICAgfQogIH0KfQ==, signature=B4KQ8yPbSDcXzdAifZQE9HEkSga1kNuKMrjaveeocdPed2tVmZlG5VvRpWTg9eD9Jn1Uz/uSdLWRSKoWJpCn3QX5CBezNbEJao0Hm+CdiJ69nYBRMefFLmtfVdJBQSqNi5vy1npnhQE5wLAPTh1YXaipcMlqbmoWhlg41tVYLQZVD3RVUH+79ns6wVVdjH/APH81jWSMu8QBvR2nQ88zp7MfDHvVYZzRf+p1OSdIAqUU3ldAHg047lFKTCd/lSPKDHd7BVRw2eygGHF3zkocPt1X3Z8X7dQY8Ho1gMMmrpX0uwCNtBYjcUZCmVD6QnWbbn2CnDKpLBzbRbD4AGZcSi8VacA4voSBUC+PbWu8IN2eEhz2Q+XyqM0F+HtPzLHy35bxVVGXNAgKrqEo1ZVuQatb3glJp6ry4/1nlN/wmJVy3duWpSf/uMF7ph4wveu9P0me5q2TGkSXSwKdwE+nzTcWvooxURLrdSf5ecgPEeF8EFHMSdsU298FLAORPlvzUHOJNdc6XsmnzaJctCsz6hFzUUiJ5tUX8X8REj8Fblvn8qEYnhngSMe3wYLK4HtXXpQyYmlfrbu9ZdbvpcMnMQ6+il6mD+vCweAlBKf4xtfZKduVC4j8jR0EY64//yT3Ac5q5jxA8YNkULDtMqS25YKShIN1Ybxzntq2VV+4V4o=]]}] lost connection: Disconnected
-[15:36:20] [User Authenticator #32/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[15:36:21] [Server thread/INFO]: Gyhh_ joined the game
-[15:36:21] [Server thread/INFO]: Gyhh_[/36.79.199.154:52567] logged in with entity id 78057 at ([world]-342.21421584517736, 172.0, 402.51891803525064)
-[15:36:27] [Craft Scheduler Thread - 57622 - AuthMe/INFO]: [AuthMe] Gyhh_ logged in 36.79.199.154
-[15:39:16] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[15:39:16] [Server thread/INFO]: Gyhh_ left the game
+[08:23:19] [User Authenticator #33/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[08:23:19] [Server thread/INFO]: anotherMIsa joined the game
+[08:23:19] [Server thread/INFO]: anotherMIsa[/125.164.22.86:27097] logged in with entity id 83704 at ([world]-154.381116631669, 70.0, -174.4579080813336)
+[08:23:27] [Craft Scheduler Thread - 63448 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.22.86
+[08:28:35] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[08:28:35] [Server thread/INFO]: anotherMIsa left the game
