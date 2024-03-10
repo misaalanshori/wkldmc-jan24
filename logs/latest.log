@@ -1,13 +1,6 @@
-[08:17:49] [User Authenticator #36/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
-[08:17:49] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:52912): You are not whitelisted on this server!
-[08:17:49] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:52912) lost connection: You are not whitelisted on this server!
-[18:18:27] [User Authenticator #37/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[18:18:30] [Server thread/INFO]: Gyhh_ joined the game
-[18:18:30] [Server thread/INFO]: Gyhh_[/185.65.134.188:40286] logged in with entity id 97532 at ([world]-352.32598028219485, 172.0, 377.64508497813904)
-[18:18:32] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[18:18:32] [Server thread/INFO]: Gyhh_ left the game
-[18:18:48] [User Authenticator #37/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
-[18:18:52] [Server thread/INFO]: anotherMIsa joined the game
-[18:18:52] [Server thread/INFO]: anotherMIsa[/185.65.134.188:39388] logged in with entity id 97549 at ([world]-38.67279927272251, 71.0, -192.8531974795252)
-[18:18:54] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
-[18:18:54] [Server thread/INFO]: anotherMIsa left the game
+[07:30:40] [User Authenticator #38/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[07:30:40] [Server thread/INFO]: anotherMIsa joined the game
+[07:30:40] [Server thread/INFO]: anotherMIsa[/125.164.16.241:26424] logged in with entity id 101977 at ([world]-38.67279927272251, 71.0, -192.8531974795252)
+[07:30:50] [Craft Scheduler Thread - 79855 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.16.241
+[07:32:49] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[07:32:49] [Server thread/INFO]: anotherMIsa left the game
