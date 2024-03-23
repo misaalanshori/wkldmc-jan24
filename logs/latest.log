@@ -1,5 +1,3 @@
-[19:48:44] [User Authenticator #47/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
-[19:48:45] [Server thread/INFO]: Gyhh_ joined the game
-[19:48:45] [Server thread/INFO]: Gyhh_[/82.102.19.73:49202] logged in with entity id 203425 at ([world]-352.32598028219485, 172.0, 377.64508497813904)
-[19:48:47] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
-[19:48:47] [Server thread/INFO]: Gyhh_ left the game
+[09:14:49] [User Authenticator #48/INFO]: UUID of player ServerSeeker_net is 4797f946-371e-3148-a8af-68d43b6c14eb
+[09:14:49] [Server thread/INFO]: Disconnecting ServerSeeker_net (/109.123.240.84:50474): You are not whitelisted on this server!
+[09:14:49] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:50474) lost connection: You are not whitelisted on this server!
