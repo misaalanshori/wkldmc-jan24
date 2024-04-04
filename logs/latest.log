@@ -1,6 +1,10 @@
-[14:11:57] [User Authenticator #55/INFO]: UUID of player janmajid is f1a59991-051a-3073-9542-e073ecb7e641
-[14:11:57] [Server thread/INFO]: Disconnecting janmajid (/180.244.129.27:21208): You are not whitelisted on this server!
-[14:11:57] [Server thread/INFO]: janmajid (/180.244.129.27:21208) lost connection: You are not whitelisted on this server!
-[14:12:05] [User Authenticator #55/INFO]: UUID of player Fancyzx is cd4b5b5a-b5b7-3c99-a8a1-1781d7624d6a
-[14:12:05] [Server thread/INFO]: Disconnecting Fancyzx (/180.244.128.245:10687): You are not whitelisted on this server!
-[14:12:05] [Server thread/INFO]: Fancyzx (/180.244.128.245:10687) lost connection: You are not whitelisted on this server!
+[00:16:27] [User Authenticator #56/INFO]: UUID of player Gyhh_ is c6f0d4fe-0092-3d76-96dd-5aa01a0aec81
+[00:16:30] [Server thread/INFO]: Gyhh_ joined the game
+[00:16:30] [Server thread/INFO]: Gyhh_[/146.70.184.190:45274] logged in with entity id 295867 at ([world]-352.32598028219485, 172.0, 377.64508497813904)
+[00:16:32] [Server thread/INFO]: Gyhh_ lost connection: Disconnected
+[00:16:32] [Server thread/INFO]: Gyhh_ left the game
+[00:16:47] [User Authenticator #56/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[00:16:50] [Server thread/INFO]: anotherMIsa joined the game
+[00:16:50] [Server thread/INFO]: anotherMIsa[/146.70.184.190:47532] logged in with entity id 295906 at ([world]24.586377249059716, 119.0, -157.72720856614933)
+[00:16:53] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[00:16:53] [Server thread/INFO]: anotherMIsa left the game
