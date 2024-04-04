@@ -8,3 +8,18 @@
 [00:16:50] [Server thread/INFO]: anotherMIsa[/146.70.184.190:47532] logged in with entity id 295906 at ([world]24.586377249059716, 119.0, -157.72720856614933)
 [00:16:53] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
 [00:16:53] [Server thread/INFO]: anotherMIsa left the game
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.0.7
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 301d078
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     A new version (15.0.8) is available! Downloading update...
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:58:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 967ms
+[08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
