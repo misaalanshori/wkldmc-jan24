@@ -23,3 +23,9 @@
 [08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 967ms
 [08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
 [08:58:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[13:44:27] [User Authenticator #57/INFO]: UUID of player anotherMIsa is 1f81fcbc-5c84-359a-87c6-0b01ed9e427e
+[13:44:28] [Server thread/INFO]: anotherMIsa joined the game
+[13:44:28] [Server thread/INFO]: anotherMIsa[/125.164.17.135:21054] logged in with entity id 300051 at ([world]24.586377249059716, 119.0, -157.72720856614933)
+[13:44:37] [Craft Scheduler Thread - 291319 - AuthMe/INFO]: [AuthMe] anotherMIsa logged in 125.164.17.135
+[13:45:57] [Server thread/INFO]: anotherMIsa lost connection: Disconnected
+[13:45:57] [Server thread/INFO]: anotherMIsa left the game
